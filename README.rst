@@ -12,7 +12,9 @@ Script Download and Setup
 
 1. Start by downloading this script via zip file or gitclone, and open it in your prefered IDE.
 
-2. To install the required packages, in the terminal, run the command pip install -r /path/to/requirements.txt
+2. To install the required packages, in the terminal, run the command: 
+    
+    pip install -r /path/to/requirements.txt
 
 3. Create a constants.py file with two variables:
 
@@ -32,7 +34,9 @@ Zoom Transcript Export
 Running the Script
 ------------------
 
-Once you have everything set up, in the project terminal, run the command python3 main.py
+Once you have everything set up, in the project terminal, run the command 
+    
+    python3 main.py
 
 
 While It's Running
