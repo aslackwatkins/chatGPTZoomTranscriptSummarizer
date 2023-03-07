@@ -1,0 +1,4 @@
+constants.py
+base_transcript.txt
+__pycache__/
+venv/
