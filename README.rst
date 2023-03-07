@@ -17,8 +17,8 @@ Script Download and Setup
 
 3. Create a constants.py file with two variables:
 
-    1. OPENAI_API_KEY = "<YOUR_API_KEY>"
-    2. OPENAI_ORG_ID = "<YOUR_API_ORG_ID>"
+1. OPENAI_API_KEY = "<YOUR_API_KEY>"
+2. OPENAI_ORG_ID = "<YOUR_API_ORG_ID>"
 
 
 Zoom Transcript Export 
