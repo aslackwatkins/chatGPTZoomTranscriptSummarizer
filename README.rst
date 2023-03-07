@@ -28,7 +28,7 @@ Zoom Transcript Export
 Running the Script
 ------------------
 Once you have everything set up, in the project terminal, run the command:
-    python3 main.py
+python3 main.py
 
 
 While It's Running
