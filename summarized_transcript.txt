@@ -1,0 +1,419 @@
+
+
+Subcategories:
+- Introduction and Technical Support
+- Ground Rules and Participation
+- Speaker's Background and Health Update
+- Industries to be Discussed
+- Data Science Perspective on Industries 
+
+Introduction and Technical Support:
+- Dr. Shakar confirms with the host that they can start at 9.
+- The chat has been disabled.
+- The speaker greets attendees from all over the world.
+
+Ground Rules and Participation:
+- Attendees are in listen mode only.
+- The question and answer box and chat box are open for questions and discussions.
+- The team will address questions at three different sessions.
+- Use the chat box and questions for pertinent topics and networking opportunities.
+
+Speaker's Background and Health Update:
+- The speaker has a background in statistics and teaching.
+- The speaker has a sore throat.
+
+Industries to be Discussed:
+- The three industries to be discussed are retail, healthcare, and finance.
+- Each industry has different dynamics.
+
+Data Science Perspective on Industries:
+- Data science lies at the intersection of different disciplines.
+- Different perspectives are needed when looking at industries.
+
+Retail:
+- The first industry being discussed is retail.
+- Retail involves various dynamics, and it can be looked at through different perspectives such as IP industries or solving a healthcare/shopping problem with mathematical models.
+- The lecture focuses on looking at statistical models that apply to specific business questions, with attention given to technological aspects when appropriate.
+- From the perspective of data, retail industry involves challenges such as layout, promotional campaigns, pricing, and inventory management.
+- Data is needed for marketing effectiveness and inventory management, which could involve looking at prices, campaign data, and understanding which products are in demand.
+- Customer engagement and support is also crucial, involving relationships with customers and addressing any complaints/opinions that may arise.
+- Data for customer support is likely to be opinions expressed through text.
+
+Healthcare and Finance:
+- The lecture will also discuss healthcare and finance, which have their own unique dynamics.
+- Healthcare involves analyzing patient data to improve outcomes and make better clinical decisions.
+- Finance involves analyzing market data to improve investment decisions and manage risk.
+
+Data Science:
+- Data science lies at the intersection of various disciplines, requiring a multifaceted perspective when analyzing industries.
+- The lecture emphasizes looking at the ways of seeing data and mathematical ideas for solving specific business questions.Main categories:
+1. Importance of Customer Engagement and Support 
+- Building and maintaining relationships with customers 
+- Collecting and analyzing customer feedback/opinions as a form of data 
+
+2. Data Science in Business Growth and Supply Chain Management
+- Understanding external factors such as competition and economic conditions 
+- Managing supply chain logistics and inventory problems 
+- Using data to make informed decisions, track progress, and improve efficiency 
+
+Subtopics:
+- Different types of data: numerical vs. opinion-based 
+- Importance of macro-level data in addition to store-level data 
+- Role of modern data scientists in solving business problems 
+- Slicing large problems into smaller dimensions to gain insightsTopic: Descriptive Statistics for Inventory Management
+Subtopics:
+- Managing inventory
+- Factors that affect sales of products
+- Purchase patterns
+- Movement time of an item
+- Identifying combinations of products
+- Solving inventory problems
+- Forecasting and modeling
+
+Points:
+- Inventory management involves tracking products and understanding capacity planning and demand forecasting.
+- Descriptive statistics is one way of looking at statistics, which describes what is going on in the data.
+- Retail stores often struggle with overstocked and understocked products, leading to dissatisfied customers.
+- Identifying factors that affect sales of products can help manage inventory, improve customer satisfaction, and increase sales.
+- Tracking purchase patterns and movement time of an item can provide insight and aid decision-making.
+- Identifying combinations of products can help with inventory management and decision-making.
+- Solving inventory problems is a complicated task that involves analyzing data and using statistical approaches.
+- Both descriptive and inferential statistics can be used for inventory management, forecasting, and modeling.-Identifying factors that affect product sales
+-Ability to manage inventory and make decisions based on data
+-Improving customer satisfaction and increasing sales
+-Introduction of the term "database"
+-Database design and use of primary keys and relationships
+-Collecting and organizing data from various sources
+-Use of data warehouses and querying through structured query languages
+-Challenges in organizing unstructured data and moving beyond SQL
+-Importance of data visualization and creating visualizations that meet various needs
+-Explaining the concept of a dashboard in relation to data visualizationSubcategories:
+- Importance of data visualization in analyzing data
+- Dashboard as a tool for data visualization and control
+- Purpose of data sense and its role in drawing conclusions
+- Challenges in forecasting in the retail industry
+- Methods for demand forecasting using trend, seasonality, and unpredictable components
+
+Bullet points:
+- Data visualization allows different stakeholders to view data in their preferred way
+- Dashboard is a device for data visualization and control, commonly used in cars and business analytics
+- Dashboard allows users to control what data they want to see and analyze
+- Data sense involves description, databases, and visualization, and is an important aspect of analyzing data
+- Volumeter data, such as Covid cases, and movie databases, such as IMDb, are examples of data senses
+- Demand forecasting is important in the retail industry due to the time it takes to design and produce products
+- AI methods are being used for forecasting, but data may not be as rich as typical forecasting models
+- Macroeconomic conditions and other external factors can affect demand forecasting accuracy
+- Separating trend, seasonality, and unpredictable components can improve demand forecasting accuracy.Topic: Data Analytics and Forecasting
+
+Subcategories:
+- Forecasting:
+  - Introduction to forecasting
+  - Methods of doing demand forecasts
+  - Examples of forecasting in various industries
+- Data Lakes:
+  - Definition and explanation of data lakes
+  - Examples of data lakes in industries such as retailing
+- Creating Dashboards:
+  - Different software options such as Tableau, Power BI, and Spotfire
+  - Generating dashboards using Excel and other tools
+- Statistical Analysis and Mathematical Models:
+  - Explanation of how the focus is on visualization and data complexity
+  - Inference and forecasting requiring mathematical models
+- Market Spend and Data Considerations:
+  - Different purposes for tracking data such as increasing revenue or managing profitability
+  - Marketing analytics and considering business constraints
+- Data Warehouses:
+  - Possibility of using multiple data warehouses for analysis.subcategories are:
+
+Purpose and Metrics:
+- Purpose of marketing can be revenue or profitability.
+- Market spend is subject to different metrics.
+- Marketing works within overall business constraints.
+- Marketing analytics become interesting because of the need to look at various aspects of data.
+
+Data Requirements:
+- Minimum requirements that datasets and databases need to have.
+- Data scientists are in two kinds of business situations: one with data and one without data.
+- Sample size needs to be calculated for specific inference questions.
+- Statisticians used to spend a lot of time calculating data size, still used in A/B testing.
+
+Data Technologies:
+- OLAP and OLTP are slightly older techniques, used for incorporating real-time data into databases.
+- NoSQL is allowing for real-time work on unstructured data.
+
+Industry Examples:
+- Air traffic management is a descriptive industry that uses statistics and visualization for logic explanation.
+- Security implications are becoming paramount in healthcare and finance industries.
+
+Subcategories:
+- Dashboarding and Security:
+  - Mention of a good example of dashboarding
+  - Security becoming important in the healthcare and finance industries
+- Healthcare Industry:
+  - Discussion on drug discovery, target identification, and disease complexity
+  - Introduction to bio statistics and clinical trials
+  - Use of bioinformatics and Alpha Fold to identify drug targets
+  - Importance of accurate diagnosis for patient outcome
+  - Discussion on probabilistic reasoning for understanding diagnosis
+  - Importance of low-cost diagnosis in resource poor organizations
+
+Bullet points:
+- Good example of dashboarding, but not called as such
+- Security important for healthcare and finance industries
+- Healthcare industry:
+  - Drug discovery, target identification, disease complexity
+  - Bio statistics and clinical trials
+  - Bioinformatics and Alpha Fold for drug target identification
+  - Accurate diagnosis important for patient outcome
+  - Probabilistic reasoning for understanding diagnosis
+  - Importance of low-cost diagnosis in resource poor organizationsTopic: The Role of Data Science in Healthcare Policy and Practice
+
+Subcategories:
+- Diagnostic Testing and Resource Allocation
+    - Discussion of false positives in COVID-19 testing and the importance of low-cost diagnosis in developing countries
+    - Allocation problems in healthcare facilities, such as optimizing the use of expensive equipment and forecasting demand for care
+- Policy and Regulation
+    - Importance of data in policymaking and problem-solving
+    - Examples of specialized data use in healthcare policy, such as insurance models and patient engagement
+    - Discussion of information asymmetry in insurance policies and potential solutions using different coverage options
+- Implications for Resource-Poor Organizations
+    - Challenges posed by lack of resources in delivering healthcare
+    - Importance of data in decision-making for resource allocation and optimization 
+- Macro-Level Data Science in Healthcare
+    - Importance of data sharing and coordination among governments in understanding and combating global health issues
+    - Discussion of the impact of COVID-19 on long-term care facilities and other health issues 
+- Data Science and Poverty 
+    - Discussion of poverty as a policy issue and the role of data in policy formulation 
+    - Importance of data in understanding and addressing healthcare disparities and access to care.
+
+Topic: Using data in healthcare
+
+Approaches to solving information asymmetry in healthcare using multiple insurance policies, patient engagement, access to care, medication adherence, and communication.
+
+Patient engagement and telemedicine as tools to track medication adherence and monitor patient health in and outside primary healthcare providers.
+
+The importance of data in telemedicine and the technical requirements needed to transmit medical records, images, videos, and other patient data.
+
+Diabetes as a complicated disease with many factors associated with its origin, risk factors, and treatments. The importance of measuring outcomes beyond blood sugar levels.
+
+The need for data-driven solutions to healthcare challenges, such as improving patient outcomes, reducing costs, and enhancing overall healthcare delivery.
+
+Subcategories:
+- Introduction to the complexity of disease diagnosis and medication adherence
+- Discussion on diabetes and its complexity as a disease
+- Importance of identifying risk factors and patterns among healthy and affected patients for type 2 diabetes prognosis
+- Prevalence of diabetes and absence of early screening mechanisms
+- Benefits of early identification and targeted healthcare to reduce costs
+- Complicated problem of understanding patient needs and building risk scores
+- Introduction to clustering models and their use in different industriesSubcategories:
+- Clustering model
+   - Definition of clustering model
+   - Example of clustering model in retail and diabetes setting
+   - Variables used for diabetes clustering model
+- Similarity of data points
+   - Calculation of distance between data points
+   - Computing power needed for large sets of data
+- Outcome of data science process
+   - Axes in the clustering model
+   - Dimensions may be a combination of variables
+
+Topic: Unsupervised Learning in Healthcare
+
+Subcategories:
+- The outcome of data science process (finding the right representation of data in 2 dimensions or smaller dimensions, and clustering people into groups)
+- The problem in data science process (how to find the right representation of data in 2 dimensions or fewer dimensions, and how to cluster people into different groups based on their similarities or dissimilarities)
+- Unsupervised learning concept (a machine learning where it does not predict a specific outcome, but groups patients according to their similarities or dissimilarities)
+- The importance of unsupervised learning in healthcare (it helps to manage costs, track diseases effectively, and suggest different strategies for different patients)
+- The healthcare problems that use unsupervised learning (business decisions regarding marketing and sales of healthcare solutions that drive strategy)
+
+Points:
+- The speaker has not discussed what actions and outcomes are on the X-axis and Y-axis because it is an outcome of the data science process.
+- In the data science process, finding the right representation of data in 2 dimensions or smaller dimensions and clustering people into groups are the two essential problems.
+- Unsupervised learning is a machine learning where it does not predict a specific outcome but groups patients according to similarities or dissimilarities.
+- Unsupervised learning is crucial in healthcare because it helps to manage costs, track diseases effectively, and suggest different strategies for different patients.
+- Healthcare problems that use unsupervised learning include marketing and sales of healthcare solutions that drive strategy.
+
+Subcategory: Marketing and Sales in Healthcare
+
+- Discusses the two main versions of marketing healthcare: marketing medicines and marketing hospitals or healthcare facilities.
+- Explains that marketing medicines is highly regulated and involves publications and medical representatives.
+- Highlights the importance of fairness and accuracy in marketing healthcare solutions.
+- Notes that marketing healthcare facilities depends on what attracts the patient base and can be done through various means such as documents, equipment or providers.
+- Points out that marketing hospitals is more conventional than marketing medicines.
+
+Subcategory: Data Privacy in Healthcare
+
+- Addresses the implications of data privacy in the work of data scientists in the health industry.
+- Highlights the importance of sharing data to get effective healthcare solutions.
+- Mentions that the insurance industry also wants the same information shared to build risk models and life assessment models.
+- Discusses the role of HIPAA (Health Insurance Portability and Accountability Act) in data privacy in healthcare.
+- Describes how HIPAA was initially designed for portability but became a standard for privacy as well.
+- Acknowledges the fear that healthcare information is going through less regulated channels such as telemedicine, apps or devices.
+
+Subcategory: Predicting Outcomes of New Viruses and Infections
+
+- Addresses the question of whether existing data can predict outcomes of new viruses and infections.
+- Notes that historically, new diseases such as Covid, scurvy, smallpox, etc., had no data to predict outcomes.
+- Explains that clinicians try to understand the characteristics and origins of the disease to predict outcomes.
+- Highlights that Covid-19 is well understood and is an explosive form of Coronavirus.
+- Discusses the importance of understanding how viruses mutate to have a reasonable idea of what may happen in the future.Topic: Understanding Disease Characteristics
+
+- Trying to understand the characteristics of a disease and its origin, such as COVID-19.
+- COVID-19 is an explosive form of Coronavirus, while there have been smaller, more precise outbreaks of other forms.
+- Biologists and epidemiologists look at data to understand viruses and how they mutate.
+- There are various kinds of viruses, such as DNA viruses and RNA viruses, and there are models for each of them.
+- Epidemiologists used to track flu outbreaks using Google Flu, but this is still a work in progress.
+- Type 1 diabetes is not purely a genetic disease and has different disease forms than Type 2 diabetes.
+- It can be hard to know how many clusters to look for in a given data set. AI systems may ignore long tails or specialized clusters and recommend seeing a doctor.
+- Different clustering models exist, such as hierarchical clustering or K-means, and it can take time to determine the best approach.
+
+Topic: Clustering Models
+
+- Different clustering models exist, such as hierarchical clustering or K-means.
+- Data scientists mix up these models to determine the best approach for a given data set.
+- Dimension reduction clustering is typically done in methods like Tsn E.Topic: Machine Learning in Data Science
+
+Clustering Models:
+- There are many clustering models, each with different advantages.
+- One example is hierarchical clustering, which starts with everything in one cluster and splits into smaller clusters.
+- Another model is K-means, which fixes the number of clusters and finds the best ones.
+- Data scientists mix and match these models.
+
+Dimension Reduction:
+- Clustering can be combined with dimension reduction, such as using the method TsnE.
+- Data scientists have many tools for clustering, depending on the application.
+
+Unsupervised Learning:
+- Unsupervised learning can group data into clusters, and a separate prediction model can be built for each cluster.
+- This often gives better results because models can be tailored to each cluster.
+
+Dimension Reduction Process:
+- The dimensions obtained must make clinical sense and capture the variability of the data.
+- The analysis must also be communicated to end users in a way that they understand and can use.
+
+Risk Scores:
+- Risk scores can be calculated independently of clustering.
+- A risk score combines aspects of all clusters and can inform someone's risk for a disease.
+
+Discriminate Analysis:
+- Discriminate analysis is a supervised learning process used to predict if someone has a disease or the probability of getting it.
+
+Using Data from Different Populations:
+- There are risks associated with using data collected in one country to create models for a different population.
+- Humans are not all alike, even within the same disease context.Summary:
+
+- Discriminant analysis is a supervised learning process used to predict if someone has a disease or not based on certain parameters.
+- There are risks in using medical data collected in one country to create models and conclusions about a different population because humans are not all alike.
+- Thresholds for what constitutes a disease may differ from country to country due to environmental circumstances, genetic institutions, or predispositions of populations.
+- Clustering methods can be used to statistically combine attributes and separate people into clusters, and the algorithm determines the rules around which clustering is best done.
+- Blockchain can be used to maintain the sanctity of the supply chain of medicine to ensure patients receive the right medicine with the right formulations.
+- Public healthcare systems and many universities have made a lot of data available, which can be accessed through their websites.Topic: Access to Public Health Data through AI
+- Public healthcare systems and universities have made a lot of data available for AI and specific models to be built upon.
+- It is suggested to start by visiting public health system websites to see what data they have made available, as most countries have made public health data available through international agreements and data sharing protocols.
+- In healthcare, simple rules can be put in place to reduce the need for big data, but AI systems still need to do more.
+- The speaker cannot address the AI question at the moment.
+- More discussions on the topic will be held later.
+
+Topic: Banking and Risk Management
+- Risk management is the most important issue in banking as bank failures can lead to severe consequences.
+- Banks fail because they are unable to give money back when there is a run on the bank, as depositors' money is being used to give loans.
+- This is a feature of banking, not a bug, and all banks must be able to manage risks like operational, credit, and market risks.
+- Credit risk involves measuring the probability of default when giving loans, and there are standards for this in many banks.Summary:
+
+- Banking has inherent risks that banks must manage, including operational, credit, and market risks.
+- Compliance, organizational challenges, and theft are other risks banks face.
+- Banks use careful standards for credit risk assessment, including measuring the probability of default and loss given default.
+- Cybersecurity is a significant risk in banking, especially as more transactions are done digitally through fintech.
+- Legacy systems present challenges to maintaining data integrity and being able to change systems easily.
+- The challenge is to create data that is portable across systems and not tied to legacy systems.can prevent fraud and financial losses. The following are subcategories of the transcript:
+
+- Data Integrity Maintenance: The lifetime of an account is longer than the lifetime of an IT system, posing challenges for data maintenance in databases. Inflexibility in data storage due to legacy systems can result in data integrity issues.
+- Data Portability: Creating data that can be easily transferred across systems is a difficult problem to solve, as exemplified by the Y2K problem 20-23 years ago. This challenge raises questions about how IT professionals can build robust systems that are compatible with data scientists' work.
+- Compliance: Compliance refers to regulations that govern data security, risk management, business standards, and financial regulations. Compliance is crucial in ensuring consistency with regulations and preventing regulatory violations and financial losses.
+- Customer Experience: The nature of customer experience has evolved due to changes in technology, such as the rise of online banking, leading to fewer bank branches. This evolution necessitates understanding customer needs and preferences to adapt to changing circumstances.
+
+Moreover, the transcript discusses risk management in the context of operational risk, specifically the ability to detect and prevent fraudulent transactions. The goal is to identify key attributes that can flag suspicious activities quickly, allowing financial institutions to prevent fraud and minimize losses.Sub Categories:
+- Operational Risk Management
+- Fraud Detection
+- Classification and Decision Trees
+
+Operational Risk Management:
+- Understanding risk with respect to its various dynamics and variables.
+- Identifying key attributes for operational risk management.
+- Flagging suspicious activity before transactions are complete.
+- Need to stop the movement of fraudulent transactions quickly.
+- Program transactions are increasing due to cybersecurity threats.
+
+Fraud Detection:
+- Distinguishing between a fraudulent transaction and a genuine one.
+- Building a classification model with a target variable of fraud or genuine transaction.
+- Binary classification that takes data and creates a data output of suspicious or genuine.
+- Using scores, metrics, or rules to determine suspicious activity.
+- Decision trees as a way of creating a predictive rule on whether a transaction is genuine or not.
+
+Classification and Decision Trees:
+- A classifier program that uses data inputs to classify into categories.
+- Decision trees ask a series of questions to create a predictive rule on whether a transaction is genuine or not.
+- Transaction amount is usually the root of the tree, and the end notes are suspicious or genuine.Topic: Supervised Learning & Decision Trees
+
+- Decision tree is a predictive rule that asks a series of questions to determine if a transaction is genuine or suspicious.
+- This is an example of supervised learning, which is a type of machine learning that uses labeled data to make predictions or decisions.
+- The advantage of this kind of supervised learning is that it is explainable, i.e., the rules can be understood by the users.
+- However, the problem with decision trees is that they can be too complex and unstable, leading to overfitting and poor performance.
+- To overcome this, modern algorithms use ensemble methods, such as random forests or boosting, to combine multiple decision trees and improve robustness.
+- These algorithms are widely used for classification tasks, such as image recognition or fraud detection.
+- The principles of supervised learning are also the foundation for other advanced AI techniques, such as neural networks or deep learning.
+- Inferential methods can be used to improve datasets or fill in missing values, such as imputation in recommendation systems.
+- More questions on the banking industry and decision-making may be addressed in future sessions.Topic: AI, Data Science, Banking, and Risk Management
+
+AI and Data Science: 
+
+- Inferential methods can be used to improve datasets after inference is done on data.
+- Influential methods like imputation and matrix completion can be used to clean up data.
+- Embedding mathematical data as if it were linguistic data can be used to customize large language models using sequential learning.
+- Any kind of data that can be formed into 1 or 2 dimensions can be used with these methods, but they need a lot of data to work well.
+- Multidimensional scaling is one method used to look at multi-dimensional data and scale it down.
+
+Banking and Risk Management:
+
+- Risk will always be present in banks, and reducing it to zero would cause banks to be unprofitable.
+- The debate over how much risk is acceptable leads to the concept of "too big to fail" and moral hazard.
+- To reduce risk, diversification is important.Subcategories: 
+- Risk Management and Compliance
+- Data Science and Predictive Maintenance
+- Pattern Recognition and Classification
+- Personalized Medicine and DNA Sequences
+
+Risk Management and Compliance:
+- Discusses the concept of "too big to fail" and moral hazard in the banking industry
+- Emphasizes the importance of managing risk well and diversifying investments to reduce risk
+- Explains the difference between compliance indicators in risk management versus legacy systems
+
+Data Science and Predictive Maintenance:
+- Explains how predictive maintenance uses data from machines to predict potential failures and when to service them
+- Describes the use of models like survival analysis and duration models in predictive maintenance
+- Discusses the importance of tying in the physics of a machine to statistical predictive maintenance models
+
+Pattern Recognition and Classification:
+- Defines pattern recognition and its two senses: classification and identifying specific rules in a dataset
+- Explains the difference between classification and clustering, where clusters do not associate with a particular label
+- Clarifies that not all classification methods result in clusters and gives examples of classification methods like logistic regression
+
+Personalized Medicine and DNA Sequences:
+- Discusses the recent complete sequencing of the human genome and our current understanding of the genetic origins of diseases
+- Mentions that certain diseases, like immunotherapy in cancer, are showing promise but there is still a long way to go in personalized medicine and understanding more complex diseases.Subcategories:
+- Fraud detection and classification
+- Personalized medicine and DNA sequences 
+- Outliers and data visualization 
+- Instantaneous credit card fraud detection 
+- Boosting in machine learning 
+- Explainability and trust in ML models 
+
+Bullet points:
+- Bank classification example used a probability threshold to identify fraud 
+- Personalized medicine is still a work in progress despite complete sequencing of human genome 
+- Neuronal degeneration diseases are better understood, while others like cancer require more research 
+- Visualization techniques can be used to identify outliers, including small clusters and using clustering algorithms 
+- Implementing instant credit card fraud detection can be done through relevant data and appropriate rules 
+- Boosting is a way of improving classification accuracy by repeating misclassified data points 
+- Explainability is important in ML models, and it's the responsibility of data scientists to ensure models are trustworthy.

@@ -1,0 +1,823 @@
+Hi, Dr. Shakar, can you hear me?
+I can hear you. Yes!
+Okay.
+So I just stopped from here and.
+Yeah, I at 9, we can go live, I'm guessing you are the host right?
+Okay.
+Yes, you are the host, so you should be getting a button with, and when you click that it will go right.
+I have no idea I didn't do that last time.
+Okay. Let me check.
+Let me check, or let me know what?
+I I think we can get.
+Must start with. He looks.
+If any participants can hear me, if you can just drop a message on the telling us if we can see.
+And here Dr. Saka.
+Okay. So the chat is been disabled.
+Hello, everyone! So we'll be starting in for now. Welcome!
+Okay, so welcome again. Goody. Good morning. Good evening. As the time zone, may be for you. We have attendees from all over the world, and it's a pleasure to welcome you to this session.
+Hey? My name is Abinanda. Today we'll be talking about.
+Oh, a few industries. And what data science is doing to them!
+Some perceptions of data and ideas of methods that can be used.
+So problems and understanding of the problems, the use of data, and what may be the approaches before we start.
+Some ground rules, please. Number one. You are in. Listen. Mode only.
+This is unfortunate. We really absolutely want to hear you interact.
+But it's a large group of people, and so we are doing it in this.
+What that means is that the question? Answer box and the chat box is open to you for questions.
+Please post those questions, and we will be addressing them in this particular session.
+We will break a number of times for questions. So we anticipate 3 different question answer sessions, so there'll be more opportunities for.
+A request as well as to please use the chat box and webinar sessions for interacting with respect to the perspective, it is absolutely important that you all network.
+And we all network and our courses will give a lot of opportunities to do that.
+So our request is to use the chat box and the questions for questions and topics that are pertinent to this sessions networking opportunities will come in due course, and we absolutely hope you take advantage of that so again, once again, please.
+Keep typing the questions in or any discussion points that you would want, not just to. Not just what is this or what is that?
+But your own opinions on things as well, and the team that is monitoring this we'll get back to you or we'll get back to me rather and say, this is what we need to address once again.
+A little bit of context to who I am. My background is a statistics which should give you a rough idea as to how I tend I've got teaching experience in business schools and in science institutions and in industrial organizations where I've worked in areas.
+That should give you a rough perspective of the way I see the world, and I absolutely hope that you see the world a little differently, because that's we'll be having different aspects, different dimensions to this.
+One more point have a little bit of a sore throat, we'll talk about healthcare today but there are variety of infections going around where I am.
+So in case my voice feeds a little bit, I hope those who are listening in will let me know, and I meet.
+Okay, so let's get on our way we're going to talk about 3 industries for these 3 industries.
+We're going to open up some problems and we're going to talk about how those problems and then we're going to take a little bit of a deeper dive into one way of looking at one of those problems.
+So what are these 3 industries that we'll be talking about?
+The first of those industries is going to be retail the second of those industries, and the third will be healthcare and finance.
+Now all these industries have different dynamics to them, which gives me an opportunity to talk a little bit about how we look at these industries.
+Because there's so many ways in which we can look at these industries, we can look at them as IP industries.
+We can look at them as industry, solving a healthcare problem or a shopping, or we can think in terms of solving a math or a modeling.
+This is our view of data, science, and the view of data, science says, is a data.
+Science is lying at the intersection of a number of disciplines, which means that we should be looking at these industries from different perspectives.
+But for today the perspective that we should be looking at is more from the sense of looking at statistical models that apply to specific business questions that does not mean that I will ignore the technological aspects of it there's a time and a place for doing that and I will draw those connections
+but the story will be to say, what is data and what might be the ways of seeing it, and maybe some mathematical ideas, especially so let's get going with respect to the first of our industry and the first of our industries is retail.
+There's a small.in the middle of us. Don't worry.
+We'll fill this up. What is retail. Now you can think in terms of retail that's just a shop, a supermarket.
+You can also think of retail in terms of, let's say, e-commerce web. It is a supermarket, but it is online.
+The retail industry, hey? Has, of course, changed and revolutionized, together with the technology industry and a skip piece with it in a variety of ways.
+But from the perspective of data, from the perspective of the problems of the challenges of the retail industry.
+What does retail industry look like?
+A major part of the retail industry. Is, is it working are people buying my product because if people don't go into a shop and buy your product, then, of course, as a retail industry, this isn't necessarily going to work as a shop, it isn't going to work so for example looking at stew
+layout, looking at promotional campaigns, looking at pricing.
+And we, you would design the reach out to the within the shop.
+That seems fairly straightforward, but people are buying things in these shops.
+Those things have to get to the shop, and that is the issue of looking at inventory.
+How do I know what to stocking these chefs?
+How do I know what is in demand? How do I know?
+How much to keep in the warehouse and keep it ready in case I need to restock within or within the week.
+Or within the month may be very close, maybe just behind the shop if you've gone to buy a shoe, you can see.
+Oh, this size, isn't there? But maybe that size of shoe is right behind in the warehouse, and the salesperson can go and give you that show so how do I manage these goods that are there now for all of these I want you to think I want us to think about what could be the potential data dynamics
+of what data might be needed. For example, in marketing, effectiveness, would data there's some hints here you could look at prices.
+You could look at campaign data. Did people buy my product at a lower price?
+Things like that for inventory management. What could be the data demand?
+In other words, linking and saying, This is flying off my shelves, and therefore I need to have more of it.
+So!
+And so for all of these data questions that need to be on.
+There are other aspects, of course, to one is, and this is very important, because we've all been subjected to this sometimes in a good way, sometimes not in a good way. Your customer engagement.
+Your customer support. In other words, how do I have a relationship with the people who are buying from my products? What happens?
+What kind of complaints may they have?
+I talked to about data, what kind of data do you think that is if you were unhappy and your to a store, saying, Hey, look, you gave me a phone.
+What would that be? That piece of data? It could be a rating, but much more likely it would be an opinion.
+It would be text. It would be a message that you have.
+Now, that's an interesting form of data. It's not numbers.
+It's somebody's opinion, and maybe somebody who's unhappy about things which gives you a sense that different kinds of data may be involved.
+Of course, at the end with our customer circumstances, we need to be able to get revenue growth.
+The store needs to grow. And how do we grow? We grow the store grows, I say, we, for the store grows through understanding competition, understanding, economic conditions, through market analysis, etc. By doing new products? What does this mean?
+It means the kind of data that you're talking about here is not the kind of data that comes. What is the other shop down the street doing? How are they taking away my customers?
+What is happening to the economy now, are people losing their jobs?
+Which means that, are they having less money? What are we spending money on?
+So now we are taking a bigger look beyond, simply the data that is available in the store.
+People often talk these days about the macro economy, which is in a little bit of trouble, but nonetheless, the kind of data that this involves is a broader span of data.
+Not the macro economy. So it is, and the bigger world also relates to making sure that I can manage to get my products in my supply chain has to be this again relates to the external world.
+Even if you can't treat all those letters, let me tell you the supply chain optimization is about production scheduling vehicle routing capacity, planning things like that.
+If a truck is going to come, carrying codes, maybe to solve an inventory problem.
+But, however, where is the track? When is it going to reach?
+What kind of data do you want to see on that truck?
+Can you track that truck that truck is a thing?
+And today we have the intimate of things which means that you can track that truck with sensors and you can see this is where this truck is, and this is when it's going to reach again another form of data.
+So as you can see different forms of data are going to.
+Not just in this industry and other industries just as well.
+And so with the modern data scientist in this industry means to do is to localize in certain ways specific problems and say, How do I solve a particular?
+What is the nature of the data challenge that? No, to interest that we can look at all these aspects?
+We can look at all the densions that are there.
+For example, all these removing the arrows, all the different buttons that you see here.
+Or we can dig a specific problem and drill down a little into saying what might that involve in terms of data?
+And once again I remind you that for today we are focusing on sh we say, statistical or more classical data, science but, as I said, I'm also going to make things like IoT and many other aspects that are going to be so let's look at the inventory problem let's look at the problem that
+says, do I need to be able to get more of this product do I need to be able to?
+Shall we say stock here I'm okay with this product.
+How do I track such things? That involves, of course, my capacity planning for doing these things?
+Might demand, forecasting understanding of economic conditions. The we I sell and I restock my products in store inside my store of efficient.
+I am at doing these things, so many dynamics. To this it is still a hard problem to solve.
+So what we are going to do it's for the sake of discussion.
+Today, we're going to slice this problem. But even smaller dimensions to say, What is it that we will need to do here?
+In order to be able to give insight.
+No, remember. I talked about math instead, and in statistics there are 2 distinct ways of looking at statistics.
+One is called descriptive statistics. You describe what is going on the other is called inferential statistics.
+Which says, Let me draw some conclusions from what is going on.
+Let me build a model that we. We shall talk about both today.
+But for this particular use case, let's take a slightly deeper dive into what I'm referring to as descriptive statistics.
+And to apply this descriptive statistics to this.
+Let's look at how the question came.
+So what are the key? Questions that I need to be able to ask? The questions that I need to ask are, for example.
+Sorry. What are the factors that affect the sales of a product what are the purchase patterns in a particular?
+What does he average movement? Time of an item? These are possible questions.
+These are all descriptive questions. There are all questions that address simply a look at the data.
+They are not forecasting type questions. They are not modeling questions.
+They're simply saying, Tell me what is going on.
+However, I don't want to leave you with this impression that this isn't easy.
+Because it's solving something that's actually quite, quite complicated.
+And what is the problem that is being solved by questions like this?
+So, for example, retail stores often end up with over Stockton under stock products.
+Boots may be, eat it in the sense that they are lying around in the shop for too long, and that isn't really requirement.
+And the customer may be dissatisfied. One, we, to visualize this is to think of the apparel industry.
+When you go to a a shop to buy shirts, blouse's cuts, as the case may be.
+What does the store look like? What does it stock it's talk of variety, of items some are specialized to gender, some are not.
+Some have bigger sections for children, some don't, but they all have choices.
+They all have different kinds of products.
+These different kinds of products have different sites. A short may come in different sizes.
+The retail industry. For example, often stores things. If you look at a shelf, bye, a colleague who's worked in this industry, I didn't know it myself, that the typical number of clothes had stopped in a little typical area one at the largest size who at the next largest
+size 2 at a smaller size, and 2 at a very small size, and one at a very small size, in a.
+They say this is standard, of course, that adds up to 6, but nevertheless, you get the idea that people think very carefully about these things, and so, therefore the question arises as to what should these combinations be?
+And therefore simply tracking these combinations allows one to be able to get good insight and make good decisions.
+Now, what do we need to do in order to be able to get this right and what happens when we get this right?
+So we can if we know, identify the factors that affect the sales of products.
+Now, this may be guesswork this may be inference that comes on top of our data.
+We can manage inventory and take decisions. We can improve customer satisfaction, increase in sales by giving customers what this is a hard problem.
+I was mentioning.
+En las Brigitteinas, Fifre Campbell, Cels is I Fink, el Tweet Willian y un Netson clubs payetas, tú vamos, tú no se.
+About a third of them are sold at retail price, there's a lot that this industry needs to get. Emma.
+We to get this right is simply to begin by looking at the now, how do we look at the data?
+Here's one classical view of look!
+This particular view of looking at it? Has it done? And let me get quickly to that term?
+That term is called database it's called a database.
+Now, what is a database? A database is essentially a way, so that different kinds of can be seen together or viewed to.
+A major concept inside a database is the notion of a and of relationships between peoples.
+For example, the idea of a primary key, which is one number, say, a customer's name, or an Id, or even a store id that runs across various tables. This is called database design.
+So when creating these databases, what analysts inside retail industry do is they look at all kinds of data that would be relevant.
+The problem at hand. They could look at customer data, supplied customer data, sales, data, inventory data, various sources to it from websites, stores to warehouse stocking to delivery, all of that different sources, the excel spreadsheets, or the web blocks could be in different
+formats. It is the job of this kind of data scientist to be able to put disparate sources of data into something like a data.
+No, today's databases often can be very complicated.
+In fact, beyond databases there was the idea of what's called a data.
+Think of warehouses. Warehouses are things where things are very systematically stable.
+So data warehouses are databases with data well arranged and on that you can query things in databases, data, warehouses.
+You can query things through structured query, languages or SQL.
+SQL so you can arrange the data and ask it question, how many customers bought this product last week?
+That's what's called a query, and it may look at different tables and give you an answer.
+No!
+That people often think in terms of a data lead a warehouse is organized.
+It's got this box here, and another set of boxes here, containers an alternative is a leak a leak is a body of water.
+You can't tell the fishes to be in one place.
+The seaweed.
+فلوفروم.
+Of data, much harder, and you have things beyond the sequel.
+Beyond SQL means not only oh, no sequel, no sequel means not only SQL, so that's a.
+In other words, in directions of more unstructured databases, like data, warehouse, and containing more unstructured data which require querying, capability or questioning capability.
+And those are things, the data scientists are beginning to grapple with, and that technology slowly be going back.
+To the visualization problem.
+And my visualization. What I mean is the description.
+Now, how do you describe? I should have carried one way. To describe is to simply see is simply to see the data give a give, a rendering of it don't give a conclusion, but just show the data.
+This is not easy. How would you like to see the data you may want to see the certain a friend of yours may want to see it a certain way. The supplier may want to see a certain way? The manager may want to see a certain way.
+And so visualizations, data, visualization, slicing and dicing.
+It is an art. So, for example, within dashboards so what is a dashboard?
+What's a dashboard of a car a dashboard of a card when you're driving a car. The thing in front of you is a dashboard.
+It allows you to do 2 things. Number one. It allows you to see what is there in the car. It allows you to see, for example, the speed at it's a visualization device, but also is a control device there are knobs on it. You know.
+This while it's not in the dashboard. But still there are ways to control the key, or maybe to turn on the Ec.
+Or the allow you to visualize, but give you some control over what you want to visualize.
+So, for example, in this particular cut of the dashboard, you can say, let me look at weekly inventory trends, weekly.
+Trevor anyway, you take another slice, which may be monthly, any of you might say, what are the stocks received in?
+How are stocks moving, and therefore see what are the stocks received, and has it moved in other and based on the units that I'm getting that? Are those units selling over the week well, we've left this graphic delegated week?
+But you get the idea as to what it is relating.
+Goods coming, 2 goods going out. It is not trying to match the.
+It is. Leaving that conclusion to you. And this is what this kind of data sense is about.
+It is about description, it is about databases. It is about visualization.
+It is about making the data. This often is an art form or a structure.
+All, for example, volumeter data which many of us use in order to track.
+Covid is something that just made Covid cases all over the world.
+Or you may be a movie buff and you may be seeing Imb, which is a movie database online to simply say, What do people think about the movie?
+Who are the actors yes, you can draw some opinions, but the purpose of Imdb is simply to report out the numbers. Similarly, here the purpose is just to report out the numbers, and so therefore the point of this is to be able to draw conclusions.
+But joined in a way that makes.
+Since, without doing mathematical mode.
+We're going to see other aspects of this as we put.
+But for now, what I'm going to do is take a and listen to what you have to say.
+Maybe read this out tackle a few questions, and maybe I just queries that you might have.
+Okay, let's see how to deal with.
+Let me see if the questions are available. Swim just a minute.
+It, I think I'll just take it from here. Let's see.
+So this question from from a month. Who asks, how would AI support a forecasting models for safety stock levels the current models can factor in C.
+What would be the next steps. So this is an extremely interesting question.
+Because it raises 1 point that we didn't talk about explicitly.
+The question of forecasting why do we need to forecast the retail industry part of the retail industry is about passion, and you take certain time to make products design that so given that you have, let's say, Oh, let's say a few months or one year design and preparation.
+Time you essentially need to start making the products that you sell today.
+About a year ago. So yes, people are using AI like methods for forecasting but there is a problem. Muhammad.
+The problem is that the data typically is not as rich as a typical.
+So very often fairly straightforward, forecasting models usually give reasonably good answers but if you want to include macroeconomic conditions and things of that sort, whether information there are things that are being tried for example, some years ago, the chocolate industry was looking at various kinds of production shall we say production
+shortfall the chocolate retail stocks would be available.
+Lakshmi also asked about forecasting and forecasting again.
+To go back is a very specific thing. We haven't talked, planned to talk about forecasting today, but since there are examples of of forecasting that we're looking at.
+So one method of doing demand for as one we talked about earlier is by separating out my Tmart forecast a trend component, a seasonality component and an unpredictable component.
+These are the, and they often go works surprisingly well.
+4 things that do have fairly strong seasonality but it's a good question.
+Maybe another time.
+Pretty nice about about data leak there are examples of data lakes, for example, in the retailing which take into account customer responses remember, I gave an example of grievance.
+So if you are storing customer feedback information, how will you store that information?
+Can you store it in a table? Of course you can storage in a table, but you're going to have to convert it into numbers first.
+So much better way to store it is to store it as but then, you're not storing.
+It has a database, or even maybe a. So, any data structure in which this text information is stored as bodies of text with text coding standards like Jason would need to be put into some.
+It structure that can be a data leak. So applications of data like tend to be places where data is of various types.
+There are other examples, please. Well, investigate unstructured data. It'll get wonderful examples associated with this.
+Berlinia asks, how do we create these dashboards?
+So what answer to that is software you can use software's like taboo.
+You can use software like power bi, like spot fire. You can use a variety that are available, many of them at low cost and many of them free in order to be able to generate if you don't want to go to this level, you can even generate good dashboards by even playing around with
+excel. And by looking at various kinds of you know plots, it'll need a little bit of work by working on macros and things like that, except but certainly you can do that.
+Is this statistical analysis in mathematical models, in what we are talking about here, in visualization.
+And the explicit answer that is not that's precisely what we are trying to answer.
+I'm sorry. That is precisely what we're trying to avoid.
+But now we're opening up the complexity of problems by looking at the variety of data and visualizing it and seeing all the complexities inherited it.
+You could say that we will do inference on it like forecasting, which is a question that was asked, and would need a mathematical model but we've avoided the mathematical model by simply saying, let me show you the data for example in a movie database you can ask the
+question you can ask the question which movie will have the most viewerships, or we get the highest rating next month.
+But that is not Imdb's job, and that's probably not what it may be good at answering. So we're gonna get to the Mac part soon enough.
+Money loss when talking about markets, market spend? What are the considerations of data? We should track.
+Now, this is an interesting question, because when you track data, there's a usually a purpose to the data that you are tracking, for example, your purpose at this moment in time could be revenue.
+What that means is, you could be simply saying, I want to increase my revenue and therefore I will spend whatever it takes in order to be able to get that advertising, spend promotional, spend all of, on the other hand, on another what you may be interested in is profitability profit in which
+case market spend is subject to a different kind of metric saying, that am I spending in a way that manages my cost?
+In order to be able to do so. Marketing works within a overall.
+Shall we see business constraint that defines the kind of data that we're also going, which is why marketing analytics becomes interesting because we need to look at various aspects.
+Send to us do data X contain multiple data warehouses. You can do it that way.
+You can do it that way. That's not generally the way it's done. But you can absolutely take different data warehouses which do.
+Is the question on IoT? And again it's a question of inferences.
+And IoT data leads to different kinds of images that have different kinds of visualizations as well.
+Speeding on.
+Now, here's an interesting question that Daniel asked, what are the true demand signals?
+I'm sorry.
+Minimum requirements that datasets and databases need to have, so that we can begin to describe any infra for our business. This is a crucial question, because it asked the question, Do I have enough data today?
+Data scientists are in 2 kinds of business situations, situation one.
+Here is the data. Tell me what you situation to. We don't have the data.
+Tell us what data we need to collect. These are 2 different situations.
+In the second situation, there's a minimum requirement. That needs to be calculated exactly as you said, that goes to the problem of saying, what is the sample size that I need what is the minimum requirement to infer?
+Again, that's an inference question but the more delicate the question you want to answer, the more data you will need if you want to look at trousers at the level of all the stores in your area that maybe isn't a lot of data you won't look at trousers in
+a specific store of a specific paradoxically, you will need more data because that's a much finer.
+And so this kind of calculation, which is to say, come from the question to the data size is what statisticians used to spend a lot of time doing.
+But it's still there in things like eb testing, etc. Etc.
+Hmm! Michael asks a question about Olap again.
+Slices, online analytical processing, no olap oil and Otp online transaction processing. These are slightly older techniques, but they're very. What do they mean?
+They mean that as data comes in, I'm able to incorporate them directly into my database.
+Hmm. So therefore the point of these is, in some way trying to make it as real-time as possible.
+Now, the hard part, as you pointed out, is when different sources come in. Can I do that?
+Still? And that is where these technologies, like no sequel, are beginning to make a lot of difference, because the ability unstructured data is allowing me to do technology online work on real-time work, on unstructured data and that's absolutely one great reason for getting this kind.
+Of technology up to speed today.
+Maybe one more question.
+So a bus as a question which is from a different industry.
+But it's it's an interesting question to talk about our data scientists useful in now, air traffic management is again something that is hugely descriptive in its nature. Think of any traffic controller.
+They're looking at which aircraft is coming, which aircraft is leaving, etc.
+It is using descriptive statistics and visualization taken to very serious and very logical explanation.
+It is, in fact, a very good example of doing this kind of dashboarding, except they don't call.
+Bobby asked a question on security we'll talk a little bit about security later, but the security of these databases, the ability to do access controller is becoming paramount, slightly less on retail.
+But in the next 2 industries that we'll get to gives me a good view into healthcare and finance.
+Security implications are going to be very, very.
+So these are wonderful questions. And I'm sorry I couldn't deal with all of them.
+Yeah, so what I'm going to do is I'm going to continue.
+And if time permits, we're going to come back and look at a few more questions as you ask. We'll do the best that we can, and if there isn't any we'll gather it and then get back to you in.
+So the next industry that we want to get to is healthcare, and in healthcare industry.
+There. Of course, things that are signed. So, yeah.
+And there, of course, things that are patient, oriented and about us, and we don't care about the science.
+We just want to.
+And so the drug discovery part of is about doing the same way.
+Is about doing target identification. It's about understanding the complexity of diseases.
+Now this world has been a world that has played a major role in the development and bio statistics is a separate branch of statistics, altogether concerned with doing clean what is a clinical trial?
+Does a medicine work let's try it out in a controlled situation.
+By giving a placebo to some patients and giving the drug that I have to some other patients.
+Do we need to carefully control situations, so that on average, the only difference between the those who get the truck and those who get the placebo is just that there's no other difference.
+So any difference is due to the fact that they got treatment.
+Very careful work that's needed in order to be able to do this.
+This has proceeded into other areas like bioinformatics, which does this but uses genetic information.
+The sequences of acts and data and going forward.
+We can even do drug target identification by using modern methods of a you may have heard of a technology called Alpha Fold.
+Alpha. 4, says, Give me a secret so give me a sequence of Ects and G's that code for proteins, and I will show you what the shape of that protein is, and using that we will be able to develop better drugs that can attach itself to different for
+example, molecules that are on cell surfaces of bacterium or viruses, capsids or viruses.
+And so, therefore, this world has obviously reached out deep into science, deep into biology, deep into chemistry, and using various kinds of data as associated with doing this.
+No, as I said, there's a lot more to healthcare than just that.
+We are interested in the diagnosis part, we, as in you and I, mostly are we ill?
+Are we okay? Should we be worried?
+What is the patient outcome, and that obviously depends on the accuracy of the diagnosis.
+Is it okay? In other words, if somebody says you have Covid.
+Do you have Covid?
+So, for example, a question can be asked if I do a test, that is 95% sensitive and 95% specific.
+In other words, 95% of the time. It'll tell you you have, Covid, if you have and 95% time it'll tell you don't have Covid so good test, 95%.
+Now from that test, if I think test positive, should I be working?
+And you will say, yes, this is a 95% accurate test.
+But it turns out that if very few people have covid 1% of the people have covid in a region, then most of the people, what tested will be false positives and the chance that you are positive implies that you have covid may be something like 16% less than 20
+percent. So there's a lot of very careful, shall we say probabilistic reasoning that goes into understanding this kind of diagnosis?
+And of course costs Lucco's diagnosis is something that's really important, particularly in countries that are developing where we cannot have in very many places.
+How do we have low-cost diagnosis?
+That is still just a and what does it mean by way of data?
+What signals should we be looking at in order for that to work?
+No, this leads to the problem of seeing, particularly in resource poor organizations or resources.
+That is necessary in order to get healthcare delivered.
+Here's an example. Staff, scheduling, facility, allocation.
+So let's suppose that you have a very expensive piece, a scanner costs a lot of money.
+You would want that scanner to be used regularly so that you can recover its cost from a resource perspective.
+That is a facility allocation problem. Or an allocation problem per se.
+If you have things that are there and are then there is a sub optimality here, and just like in the retail case, there is an optimization kind of problem that possibly sits.
+Of course. All that again leads to now forecasting which is what many of you are asking questions about.
+And here, too, we need to forecast no, think again of Covid.
+Should hospitals create more tests?
+I live in an apartment complex and in our apartment complex, we create a little facility, a triage facility, a first care facility which had a bed which had access to a nurse. It wasn't used much.
+So, in other words, when we focus the implications for getting it wrong, if we have too few hospital beds, people, if you have too many hospital beds, then we may be diverting resources to other things that are really important.
+As covid kick in other diseases also came in tuberculosis, because the care for tuberculosis came down.
+It's also a but because of the focus in Covid, the long-term care facilities patient took a hit all over the world.
+And sort of macro level being able to get this right as a data problem.
+And governments are sharing data in order to be able to understand.
+Policy and regulation. Is this a data problem? You would say, policy's soft right policy is not about data.
+Politics, even, or it's about what people think is right.
+What is data about poverty?
+Part of doing policies. He's being very clear on what your policy is designed to accomplish.
+This is where people in policy often turn to data.
+They ask the question, What is the problem we are solving?
+And if it is this, then what is the information we need and think?
+Thanks all over the world are using very specialized forms of.
+No, that's at the macro level, at the micro level.
+You could have policy which talks about.
+Insurance models. When do I give you your money in terms of your insurance?
+No, here there is an interesting problem that somehow points to the lack of we often talk about data science as being about data but there's some strange situations where data, science or other data is about the lack of data.
+In insurance, in the insurance business, the person who's insuring knows less about the person that they are insuring.
+In other words, the patient who's buying the insurance knows a lot more about their health care about their health status, about their condition than the person who's giving health and so there's an information asymmetry or a data asymmetry how do you solve this very interesting approaches to doing this one way of doing this
+is to have multiple kinds of insurance policies. For example, you could say, I will have high premium, a lot of money for the insurance.
+But yeah, but every time, every procedure, you're almost covered or low premium.
+But high deductible. You don't have to pay a lot per year, but every time you use it you have to cover a lot.
+Maybe third, which insurance policy you pick tell the insurance person a little bit about how you intend to use that policy and so the interesting uses of shall we say the appence of data going into policy on this this particular kind of thing is most studied in economic settings insurance companies are very very big and
+serious users, and of course, we won't. Patient engagement.
+We want to make sure that patients are taken care of. Access to care, medication, adherence, communication counts.
+No! How do you ensure? That somebody takes a medicine you're going to give them medicine and you're good to see.
+Okay, one pill in the evening for one week. How are you going to ensure that this happens?
+No one way to do that is to have in some way devices associated with build dispensers, build dispensers that essentially are trackable.
+To say that that transmits back information on the usage of a pillar.
+Other things that have been tried as well. So, for example, people.
+Elderly patients often are willing to have the public spaces monitored in order to be able to see how are they moving around?
+Did they have enough water? Did they take this pills? A certain form of telemedicine, with essentially traction?
+This may seem highly invisive, and of course it's done.
+In only very very specific stuff.
+But nevertheless.
+Being able to track a patient outside the primary healthcare providers.
+Environmental is turning out to be a very serious problem in developed countries, like examples that I said, even in less developed countries, particularly in rural areas, a patient may be unwilling to come back to the clinician.
+Or verify, and in certain cases the nurse, practitioner, we go and knock on a door and see, sir, man, did you take your medicine?
+Would you like to? But how can we help you? And so the industry of telemedicine, so to speak, and I'll call it an industry is industry that is making a very large difference in the Covid Lockdown situation, this industry of course, went and went expanded in expanded direction.
+Because many of us use telemedicine facilities because we were simply not mobile but now for people who are mobile but do not still have this kind of patient engagement takes is important.
+Now, you might say, this is not data. However, the setting up of such a thing very much is data, science.
+What kind of data do you think the telemedicine report will transmit?
+Can it transmit medical records? For example, on a cell phone?
+Can you simply take a picture of something and try? Can you do a video teleconference and show?
+Maybe a wound on a leg. What data! And therefore, therefore what technical capability, what bandwidth on my network!
+See where it goes into a technology problem because of the data requirement that is necessary.
+So the the world of healthcare and its own particular set of challenges that we might want to look at and investigate in some detail as before, there's so much to see here but let's take a specific example or a specific set of problems or specific way of looking at things and see where we
+go, and we will look at patients, outcomes. In other words, we are going to look at.
+Shall we say the diagnosis of a disease? And what does that mean?
+What does that mean with respect to the complexity of the disease?
+What does that mean with medication adherents, treatment, compliance, and all of that?
+And all of these situations actually come together in a disease that is in some ways spreading across the world.
+It has spread across the world in many, many ways, and that is diabetes.
+Now diabetes, particularly type 2 diabetes adult onset diabetes.
+Is a complicated disease.
+It's complicated because it has many, many factors associated with it.
+It's outcome, so to speak, or its measurement is not that hard?
+It's about blood sugar. Essentially, it's effect is a little more insidious.
+With respect to being tired, and urination, and all of that.
+But the origin of the disease, and where it comes, and can we can we build risk factors for it?
+That is a much harder question.
+And so, therefore, if the question that we are trying to answer is a question like this, what are the factors that influence the development of type?
+2 diabetes again adult onset diabetes.
+Not a child which is type. One diabetes who is essentially born with the disease but someone who develops it, and are there patterns among healthy and affected patients, patterns.
+We can leverage in order to be able to say who is at risk, and what can be the prognosis of this?
+No why do we want to do this? Why do we want to solve a problem like this?
+One, of course, is the prevalence. It's an increasing disease.
+There are millions of diabetes, patients in every country, and there's an absence of screening mechanisms.
+In order to do this, because the symptoms of income a little too late, or the lifestyle, and there is a quality of life care that would come in with respect to diabetics. And therefore, what should we? I'm sorry do with respect to that now, if we can understand questions of this kind?
+If we can understand questions at this kind, then we will have patterns and patients that can signal early on set of the disease.
+We'll be able to identify people at sooner.
+It's not that hard to do this, but we'll get much better scores, and we'll be able to do this for a large enough we'll be able to do interventions, and we'll be able to do patient outcomes and therefore reach video self care costs how by being able to do
+targeted into one of the challenges healthcare has is that very often in healthcare we have to do was called it peanut butter treatment, which means putting peanut butter on top of bread everywhere along the bed that's called peanut butter treatment so the same treatment is given to everyone let's say, an antibiotic
+or and so to be able not to be able to do that, but to be able to do more targeted healthcare, and therefore, of course, reduce costs no what I've just described is an intensely complicated problem.
+And I'm absolutely not going to go into the details of all of this.
+But it allows me like a reason to talk about certain kinds of data, science, or certain kinds of machines.
+So what is the problem that we have the problem that we have is to be able to understand what or who are the patients who are more addressing?
+Now you can do that by building risk. You can do that.
+For example, if there are scores in cardiology, there are scores and mere clinic has a heart score. There are scores of Alzheimer's disease. Many mental State Exam.
+And things like that. Diseases have scores deputies are simple in that particular way.
+It only looks at HP, one C or HP, one C.
+Or black sugar. However, instead of looking at a precise granularity of patients, saying, I'm going to give you a score let me make the problem simpler by saying, I'm not going to give you a score.
+I'm going to divide you into 3 or 4 of and I'm going to say this is the kind of person that you are.
+This is the kind of risk that you have. Now, this can be a small number of clusters, and based on this clinicians, or whoever may be able to decide.
+Oh, for someone in this cluster or this segment!
+This is the kind of care that I should be able.
+And so therefore.
+In order to build this kind of clustering model what is the clustering model?
+It is a division of people into different groups now clusters and models are used in many, many we are used in retail.
+For example, our previous examples of trying to figure out what clusters of of shall be.
+Same customers are there is this a transaction customer?
+Someone who will buy occasionally. Is this a regular customer?
+Someone will regularly come and buy for me. This is a customer of convenience.
+They will buy only these old clusters that the retail industry tends to use.
+So we could have used the same example in but if we are going to do this in the diabetes, setting then we need to ask what are the particular variables?
+What are the particular numbers? My model, so to speak. And now I'm going to talk about models.
+I'm going to talk about equations and things like that.
+Patient demographics, medical history, family history, did someone in the family have diabetes or not?
+The genetic origins of diabetes is still a little bit in haste. Yes, there are, you know, enzymes, whose expression seems to predict it.
+But it's not one of those diseases where pure genetic prediction method works particularly well.
+Exercise history, physical measurements, laboratory reports, which is you know, blood sugar levels.
+And occupational stresses, which is thought to be a precursor to the disease.
+So various kinds of information.
+No! What's the plan? The plan is to find similar data points.
+In other words, patients who are similar patients who are similar and put them into the same cluster.
+So we want to divide our patients into clusters in such a way that people who are in different clusters are far away from each other, people who are in the same cluster flows to each other.
+What is this? Are people far away? What are we talking about I'm talking about streets or countries.
+No, I'm talking about the data point is far away from another data point, which means I'm I'm talking about taking 2 points, 8 variables.
+Sorry 8 dimensional numbers, and taking the distance between them, the distance between each, for example, squaring it, adding it and taking its square root. That's a distance.
+Similarity. Now, this kind of calculation is actually very, very intense.
+This kind of calculation LED originally to problems of saying we.
+So let's suppose that I've got a 100 patients. So if I'm looking at a if I'm looking at a 100 patients. Hmm, so I'm looking at, you know, 15,000 distances, there are 5,000 distances that I need to compute between 100 patients.
+If I've got 10,000 patients, you're looking at 50 billion patients or something of that order.
+And that means heavy compute is needed for this. And this is one of those applications in fairly straightforward data science that, hey, we compute power in order to solve.
+No, on the right hand side there's an interesting picture, and this picture says that there's an x-axis, and there's a Y activity on which I've indicated these 4 clusters in 4 different.
+But I have been lazy or maybe I'm just simply trying to fool you.
+I've not told you what these actions I've not told you what is on the X-axis, and what is in the Y axis and the reason I'm not told you is because that is an outcome of the data science process.
+So what outcome of the data science process is the axes, let's say the 2 dimensions, one of which I'm going to call it, and one of which I'm going to call Y, the 2 dimensions on which, if I represent the data, I will be able to set.
+This is not easy now, these dimensions may come out to be something.
+One of them may come out to be about. You know various kinds of physical measurements like your blood sugar levels.
+HP, one c. Etc. One may be about family history and stress, etcetera. There will be combinations of variables, and they may map.
+They may be mathematical ways. These will be your scores.
+The schools that can be tracked and the schools that can help separate out my.
+So there are 2 problems that are sitting in here. Problem number one, how do I find the right representation of the data in 2 dimensions or smaller dimensions?
+The right scores that can combine all my metrics into something clinically significant problem.
+2 within that construct. How can I cluster people by saying your similar, or you are dissimilar, and therefore I will have different strategies for you which have to do with heavy medication, or which have to do with or which have to do with exercise, or with stress management and all of.
+This problem is an example of what in machine learning is called unsupervised learning.
+I'm supervised learning because it is not predicting a specific outcome.
+It is not predicting diabetes, it is simply taking patience and grouping them.
+It is not saying that everyone in this yellow is going to get diabetes rapidly.
+It is not matter, it is simply grouping and so when there isn't a target variable like an outc then you have what is called unsupervised learning.
+And these 2 problems that I just talked about dimension reduction, fewer dimensions represent the data and clustering of segmentation that people in machine learning use regularly, and it sits usually between data visualization and more sophisticated prediction algorithms because it allows for clever slices of the
+data to be seen and focused on, maybe differently, because with each of these different areas, I can now maybe suggest different kinds of strategies, and that is the clinical problem that I'm looking for.
+And that is what is going to manage. For example, my costs.
+That is what is going to allow me to track this disease more effectively, and to be able to get good points.
+And so, therefore, once again, unsupervised learning is not just a healthcare matter, but it is very much used in situations where I need to be able to get a sense of what is the complexity of the problem that I'm looking at.
+And I can. I chunk this up into simpler problems, either by looking at fewer variables or by looking at fewer groups of customers.
+Sorry patients. In this case, patient.
+That is one example, and there are many other examples of healthcare that that we investigate, that we can investigate and talk.
+What I want to do probably is this, is, you are asking many questions.
+I'm going to go a little earlier to the question, so I can spend maybe a little more time on it.
+And so, with your permission, what I'm going to do is move over to the questions and see what you have in mind.
+I'm simply doing a eyeball check of what we should look at.
+So first let me let me address the few healthcare problem questions, and then maybe the more general questions and then he'll ask of the 5, spaces in healthcare that we look at the business decisions regarding marketing and sales of healthcare solutions that drive strategy so you are talking about marketing and
+sales now, if you look at healthcare as shall we say, a product that is to be marketed, there are 2 versions of it that come to mind immediately. One is the marketing of a medicine, a drug in other words, to be able to say, this medicine works and that is typically, done through publications that is done through medical
+representatives and it's an area where there's some very strong regulatory rules around when doctors can be approached around fairness of the result, and people people watch very carefully as to what is promised is actually correct, or not the second is the marketing and and positioning of hospitals or
+you. And this is simply like anything else, like a shop or any other facility and here, what's interesting is in some parts of the world, the marketing of a healthcare facility is done through documents in other words, a hospital will say these are the doctors that I have in some parts of the world.
+This is done through equipment. These are the facilities in some parts of the world.
+It is done through providers. These are the insurance providers or peers.
+This entirely depends on what attracts that particular patient base. But the rules of marketing there are the same.
+In other words, you know, line of sight, eyeball, campaign management.
+What marketing would do. But the hospital side of it is more conventional that the medicine side of it is a lot more regulated.
+Paul asks, what are the implications of data privacy in the work over data scientists, the health industry.
+So not quite obviously, data, privacy is something that's a great concern in healthcare.
+Because if you I want to make sure that the data that I have is limited to my doctor, I don't want my employer, for example, for example, maybe that's okay.
+In some cases, but if you don't share data at all, then you won't be able to get good healthcare solutions.
+Another play industry. That sort of wants, the same information shared is listed insurance industry.
+In order to be able to build risk models. Life assessment models, etcetera, etcetera.
+And so, in order to be able to share data within the industry insurance industry, the Us. And other markets came up with Kipa Insurance.
+And P. Stands for portability, which means, what are the rules by which you can move data from one place to another.
+Now, Hippa, therefore, has become a standard for privacy as well.
+It was not designed for privacy, it was designed for portability, it was designed to say when but moving data is almost synonymous with saying, What can I move versus?
+What can I move? And therefore what is what is public information?
+What is private information, and so, therefore, there are standards in place that that can the fear that many people have is a lot of our healthcare.
+Information is now going through less regulated channels. So, for example, through telemedicine through apps that we have on cell phones that can track various kinds of things through fit picks and watches and devices that we were so there are new channels of data sharing that people are of course concerned with and
+that's that's a fair question to ask.
+With the evolving of new viruses and infections, will existing data be able to predict certain outcomes.
+This is a very relevant question, because, like we saw for Covid, and before that, as we saw for it, and many other diseases.
+Historically, for example, scurvy, smallpox, etc.
+A new disease. You don't have data for it. You don't know what the disease is about.
+So here.
+What clinicians are trying to do is essentially trying to understand what are the characteristics of the disease, and where is it coming from?
+Covid, for example.
+Hey? Hey? Sorry, Coronavirus is well understood.
+And my covid is, that is an explosive form of Coronavirus.
+There have been much smaller, more precise outbreaks of other forms of so what people say.
+Do I understand the Vius? Do I understand the bacteria?
+Do I understand how it is mutating so they may not know what it is mutating to, but they have a reasonable idea of it is mutating, and when might it mutate?
+So, therefore that really isn't a good idea as to what is going to happen to these new infections, and what is going to happen to these these new viruses, etc.
+But there is reasonable information on the fact that how are viruses mutating which ones are at risk?
+And when they do mutate, what will happen? And all of that viruses, of course, are various kinds.
+DNA viruses, rna virus sort of, you know, forward rigorous, etcetera.
+Many kinds of viruses are there, and for each of them there are models at that time.
+This is not to say that that biologists know this as an art at those sites.
+It's still a not epidemiologist, of course, are looking at data sometimes the data doesn't work very quickly.
+Some years ago there was a very interesting application called Google Flu.
+And some of you may remember Google flu it essentially, it was a product by Google that essentially tracked queries with respect to flu and use that as a precursor to seeing, am I seeing an influenza outbreak and did very well for a while until and so this is certainly a work in progress.
+Hmm. Simon is correcting me very correctly. Type one diabetes is not a purely genetic disease, not born with it. I stand corrected. In other words, my whole intention was to separate it from diabetes in a non-ceter situation, but absolutely there are details.
+To it that I should have been much clearer about but it is true, the type I diabetes and type.
+2 diabetes have have in some way different different disease forms, while they may both be about various forms of insulin, resistance, etcetera, etcetera.
+But because of the nature of various triggering factors, like stress, like exercise, etc.
+Type. 2 diabetes has its own complications. But thank you, Simone, I stand corrected.
+Eduardo asks, regarding clusters, how do we know how many clusters we are looking for?
+We don't. We don't. In fact, how many clusters we are going to look for is a hard problem in the retail industry. A previous example.
+There's something called the Long Tail, the long tail, the long tail is a few things sorry.
+Many things that are bought infrequently. The long team and so, similarly here you could have a long tail, which means you could have standard clusters.
+But if few people who aren't fitting in and so very often, you will have clusters few large clusters, and you'll be looking at a few that are separated this, by the way, is what a lot of AI systems are doing.
+There is a
+For example, in medical imaging, and these long tails, or these specialized clusters, they're not going to look at.
+And they're going to say, See the doctor, because this is complicated this is a very interesting use of AI, because it says I'm not going to do the diagnoses
+A clustering classification approach the same. Matthew asked.
+No, they're not we're gonna talk about classic.
+We're gonna show you an example classification soon. It is the other kind of machine learning which is supervised machine learning.
+How do we? How do we know what clustering model we use in a specific data set?
+There are many clustering models, each have different advantages one is hierarchical, clustering, everything is one cluster.
+They split into 2, then each is split into 2, etc. Keep growing.
+The clusters it's called hierarchy, Clustering.
+There's another kind that essentially fixes the number of clusters, and then says, Let's say, K-means, you say 10 clusters, and gives me the best 10 clusters so variety of such things professional that is data. Scientists mix these things.
+Up and they spend a fair amount of time doing this and say, Okay, this is what happens at the end, you don't have to have a clean answer to it, and you can try all kinds of things.
+When I talked about this combination of of dimension reduction clustering is typically done in methods like Tsn E. For example, Tsn is something that does both.
+You know, dimension reduction using methods, very light principles, components and clustering.
+So there are. There's a there are other methods that use this kind of damage reduction as well.
+So clustering is A is A is a rapidly evolving area and data.
+Scientists typically have many tools based on what kind would work well for that particular application.
+If we do have target variables any last? Yes, you can do unsupervised learning to group into clusters and then build a separate prediction model for each cluster.
+That's often done. In fact, the models would be different.
+Hmm! For each cluster, and that often gives good results.
+So. In other words, the same predictive model may not work for all kinds of health conditions, and so, therefore, that we need differential treatment, and so modeling done separately on clusters.
+It's something that makes common sense.
+Santhipa asks, what do you use to inform dimension, reduction process, highest correlation, medical relevance, etc. Both.
+The eventual dimensions that I will get must make clinical sense if they do not make clinical sense.
+I can be pretty sure the doctor won't use it.
+On the other hand, if they do not, shall we say collapse the data, or capture the wayation of data under those damensions?
+They will not statistically, will not be statistically useful, you know, to separate out those clusters so the worker for data scientist, this is a bigger question that we need is another conversation is to say, the work of a data scientist is not just the work of doing the analysis.
+It is also doing their analysis in a way that the end user is comfortable, using the result that they know that this fits into my intuition, and what I'm seeing is value.
+Add beyond what I already know. And isn't changing the rules of the game on me.
+So this communication style, the ability to fit into the rules of a profession is a very important art of a data scientist. And, as I said, maybe that's a longer discussion.
+Calculating risk course, besides clustering risk course can be calculated, of course, independent of clustering.
+Regina asks. Risk course? Are things as I said, risk for cardiac disease, or any of those are essentially about things that combine scores.
+They're about finding one of those. Yes, a risk may be informed by a specific cluster and may make sense only for specific clusters.
+But the idea for this core is to be able to take aspects of all the clusters and put it together as somebody.
+Is it high risk because of a particular perspective? Somebody else is at high risk because of another risk factor, and these risk factors may combine to different clusters.
+And so building a riskore is, I would say, a different process than what we looked at, but that that's just as likely to ask.
+You need discriminate analysis, asks, is a supervised learning process in which we are treating which we are trying to predict whether someone has deputies are not, or the probability that they will get or not.
+We're not going that far yet.
+Money? Asks an important question. About the risks of using metal data collected in one country to create models and generate control conclusions about a different population.
+Wow! Are all humans alike?
+Even for this context that we looked at.
+I know, for gentlemen who spent a long time in another Southeast Asian country, and he was diagnosed as diabetic, and he took very good care of himself.
+Based on a particular score based on a particular level of blood, sugar, fasting, blood, sugar.
+He came to the country where I am now, and he was declared by the doctors here to be no, not diabetic, and he said, Why, just by changing countries, did they stop being a diabetic?
+And the reason he was told is that no, the threshold for being a diabetic is different in this country, he didn't seem to agree.
+That seems wrong. So that's one particular difference in countries to countries the threshold for what constitutes a disease is often different.
+The second, the predisposition of people 2 different diseases could differ.
+Based on the circumstances, the environmental circumstances, or the genetic institutions or predispositions of those populations.
+So, therefore, if you go to all these medical journals, you'll see a agreed emphasis on producing people that apply to specific countries, and they say, this is data from this country.
+This is data from Japan. This is data from Columbia.
+This is data from Brazil. This is data from Bulgaria, from Pakistan.
+This is data from different countries. And this is what I'm seeing.
+The model that you told me from the Us. Or Western Europe is not holding for me.
+And I'm just reporting it those papers are very commonly used, and you get sort of new care regiments that go that absolutely.
+This is something that the World Health Organization and many multilateral organizations are very careful of.
+Send to us is the clustering mode seem that attributes that medical history, the whole point of dimension reduction in clustering is to be able to combine these attributes, those actionions should be combined into saying, Oh, if this is what the formula is then if you're above this
+number you're in this cluster below this number.
+You're in this cluster or some other rules, so the clustering will define a set of rules that defines a cluster.
+So the idea of this method is to be able to statistically combine these attributes.
+That's exactly the outcome that we are hoping for.
+We do not make that decision we let the algorithm decide that what are the rules around which this clustering is best done, so that I can separate people out I don't need to do that myself.
+But once again it should be clinically relevant.
+Can blockchain be used for security in healthcare when moving data yes, indeed it can, and blockchain is being used, however, probably not as much as one would have expected one place where blockchain is being used, which is it's keeping a record of the medicine, when it was made.
+Where it was shipped, etc. To maintain the sanity of the medicine, to make sure that you know within codes fake drugs aren't distributed to patients, and the right medicine with with the right formulations. And the right expiry dates go so yes, blockchain is being used to
+maintain so the sanctities of the supply chain.
+But, like in many other applications, the take-up rate of blockchain probably isn as it's originators that's hoped.
+Matteo asks, are there a way to access information from public healthc systems?
+Yes, for example, it was a public healthcare system.
+The webinar World Health Organization has made a lot of data available.
+Many universities, Johnsokies in the Us. Many universities, Johnsokis in the Us. Many other universities, have made a lot of data available and a lot of specific models are being built on that kind of again, I would suggest, go to begin with, things like W or the public health system. In your country.
+Go to their website and see what data they have made, made available in order to be able to do that.
+Most countries have made a lot of public health data available, partly by international agreement, so that people know what the status is across the world, and so that they have data sharing protocols.
+As much as about data size in healthcare.
+In many of these cases it's a small data problem.
+But you're asking a very interesting question on AI children, for example, need to see a lot fewer dogs in order to recognize where a dog is. AI systems need to do a lot more yes, a combination of rule-based systems and a doctor is simply taught in a medical school that if the blood sugar levels are over
+200, your diabetic take respect to everything. Yes, first, those simple rules, and that will help the need for big data.
+But you're right. We should have simple rules in place in order to do that.
+But the AI. Question. I'm sorry I won't be able to address.
+Okay, so there are many questions. And, as I said, I have to apologize for not being able to get to all of them.
+What I'm going to do is sort of move on.
+And again, please keep asking these questions. We're going to come back.
+We're going to have another round of these discussions right to the end.
+But before we do that I want to move on to the last.
+A topic that we have which is banking, or the finance industry, Vfsi, etcetera.
+Once again. I'm not an expert in all of these industries.
+Maybe I'm expert in, but I have worked in various aspects of all of it, and most back to data.
+Scientific statisticians tend to work on these industries at some point in their careers and so I know something's more in some things less in banking let's go to a very similar picture.
+You know the drill by now. So let's talk about the most important you know, as they say, 800 pound gorilla in the room in banking, which is risk management.
+No, if this goes wrong in a bank, all kinds of things will happen right?
+In fact, I think in the question there was questions on this right that those question.
+Silicon Valley Bank, etc. So there was a question on Svd.
+So for bank failures, silicon, valley, bank, etcetera.
+So when banks fail, now, why do banks feel banks feel?
+Because in some way they are unable to give money back.
+There's a run on the bank. Look! Why is that? You would say?
+But I have to. I give you the money why can't I take my own money back?
+The reason is because the band went out this money that's the bank's model.
+The bank's model is, he'll take deposits from you.
+He'll take that money, give that money out as loans.
+The difference in these 2 interest rates is a profit margin of the bank.
+So your money is actually not in the bank. It is being used by someone who is taking a loan from the bank. And so, therefore, if everyone wants their money back at the same time, the bank doesn't actually have the money.
+This is a permanent risk en all banks face.
+It is not a, it is a feature of banking, it is not a bug.
+And so therefore, even without the shall we say the the specific aspects of risk, like cybersecurity, risk the list of hacking, etc. Compliance challenges organization challenges theft from managers, and all of that inadequate risk assessments and audit banks have to know how
+to manage risk.
+There are various kinds of risk this operation risk which we'll talk about, maybe a little bit more.
+But this credit risk in this market risk, credit risk means. If you take a loan from me, if I take a loan from the bank, will I give the bank money?
+And there's careful standards for that in many bags, for example, a measure like probability of default.
+What is the chance that I will default, that it will not give money back there are the careful metrics, like loss given default and exposure after default, in other words, if there is default, how much money that will the bank actually lose and what is the additional exposure that the bank has with respect to
+this obligion.
+And so, therefore these are calculations, and what I just described this to a standard of passing standard.
+Hmm, thank you for international settlements is based in Switzerland, whose rules apply to various kinds of banks.
+And so these are obviously data methodologies. In other words, in order to be able to look at data in very carefully regulated methods, to give these numbers and banks have to have these numbers.
+And therefore they have to be able to do the reserve calculations and say how much money will I have irrespective of how much I get.
+So that I have enough cash to give to people when they want to give those when they want to get the key.
+People ask for the money. Hmm, of course there are many other aspects to banking as well.
+The specific risk. That is, that is important. Today, cypher security, malware attacks, cloud security, etc.
+Various kinds of security, and this is especially important today, because so many transactions are done online they're done through a digital mechanism.
+Fintech, so to speak, is a big deal, and so
+You know, in France, dollars, rupees, whatever. There was a note that I gave you, what you gave me.
+There's just an information exchange a notional transport, and so if that is hacked if that is compromised, the solution or transfer information now has real implications for and so how do we do that?
+How do we understand that what are the rules of of fraud, detection, and we're gonna talk a little bit more about that.
+Possibly if you have the opportunity to. So this, there's a whole set of problems that have to be with with the digitization of transaction.
+And cybersecurity. You know, there was a security of in this case of our money or of financial transactions where the money is moving online, or, more precisely, the information about the money is moving online.
+Now all this becomes hard. If you are looking at systems that are harder to change.
+You might say, hey legacy systems is a problem with hospitals.
+It's a problem with shops it's a problem everywhere.
+Why should it be a problem with that?
+One reason it's a problem with that is, think about your relationship with your how long have you had your relationship with your bank?
+How long have you had your account?
+And I'm betting that for many of you it's a span of many years.
+What does that mean? It means that your account, the data of your account, the information for your accounts, it's having to retain its integrity and his quickness over different it systems over the lifetime of of the account. The lifetime of the account is longer than the lifetime of an it system, in the back.
+This leads to the to property of data integrity maintenance of databases.
+What we talked about before, inflexibility in the sense that certain things cannot be changed, and because the data was stored a certain way in in an older legacy system, it has to be stored.
+These problems arise.
+These are not cool problems, they're not a high like road, but they are problems of a very real data kind.
+In the following, they beg the question, how do I create data?
+That makes it portable across systems. In other words, that removes this problem of legacy systems and this is a very hard problem to solve a classic example of this problem is a so called Y 2 key problem.
+And now 20 to 23 years ago, when computers were storing years in 2 digits, and the calendar moved from 19 to 20 in the first 2 digits of the 4 4 digitally presentation of year and now the older legacy system simply didn't work the arithmetic would go
+wrong, 0 one minus 99 would be an arithmetic that didn't make sense in terms of 2 years and so, therefore, how should we create data so that this survive on legacy systems?
+Secondly, how should it professionals build it? Systems that are robust to what data scientists do on the.
+And this is a problem that data managers or data engineers, as they're called video we talk about the distinction between data science and data engine data.
+Engineering is about the construction of data about the design of data, and what data should look like and how we should fit into another system.
+And this is one important dynamic of that.
+Then, of course, there is compliance.
+We talked a little bit about compliance and sensor, risk management, business standards, etc.
+Etc. Compliance of data security. Again, we talked about hipaa in finance.
+Also, there are, there's strong data security laws. And, as I said, many countries are coming up with rules. Against that. There are financial regulatory boards that are particularly in response to crisis that happened before in 1998, in 2,008 etc. There are many regulatory agencies
+depositors particularly consumer protection. I talked about passency, compliance.
+Remember, I talked about probability of default exposure. T. 4. Loss given T.
+4 and so, being consistent with with regulations, so that everyone is particular, the reason is because the natural instinct depends a lot on the personality of the manager or the personality of someone who's taking deposits and giving out loans if the bank manager is particularly risk averse they will not give a lot of loans. They'll protect their money but the banks will not make revenue that
+such a but if the amount of risk that they take is too much the bank is subject to the kinds of disasters that we have seen in Silicon Valley Bank, etc.
+Nevertheless, one way to stop that is to put data regulations to put behavioral regulations.
+Now this, this is only brim, right so. But in addition to all other retail kind of businesses, there are customer experiences that we have just like patients visiting a hospital their customer experiences that they do have my grandfather used to go to the bank not because he needed money.
+but because he knew the teller. He knew the person there. He just wanted to meet him, talk to him how you are, etc. It didn't seem like good reason to go to a bank, but nevertheless, those days are largely gone there are fewer and fewer, branches and so
+the nature of the customer. Experience is now very different.
+So given this again, what can we look at as a specific example?
+Here among all these various concerns, that we have one thing we can look at is risk, as we said, but maybe a kind of big, and to understand risk with respect to it's various dynamics.
+It's various variables and the various kinds of rules rules that a risk management system may be able to define and that help us do things like risk assessment that will help us understand which customers are at higher risk itself.
+How can we do something like that? So now we seem to be beginning at a very similar place likely began in the healthcare situation.
+We're looking for key attributes. And in this particular case, we're looking at operational risk. That's what so specific version of our operational risk is the ability to under a suspicious transaction was the genuine transaction.
+There's a credit card being used somewhere. Was this genuinely used?
+Or has this number been started?
+What are the attributes of such an? This is the particular kind of operational risk that we are looking at.
+So we need to be able to flag suspicious activity before transactions are complete or very strong.
+So that we can stop the movement. Difference, because, remember, for many of these things the money isn't really moving, and information message is being sent and I need to stop that message either with the P bank or with the gateway, or whatever be the mechanism that I'm using so speed is of the and therefore this has to be a
+real-based procedure.
+Of course, is this important to do so? What? Obviously, yes, program transactions are increasing.
+One reason they're increasing is program. Transactions are associated with cybersecurity.
+They're associated with digital hacking. And so this as finance digitizes this kind of data or this kind of training becomes more vulnerable and are there data-deven ways to prevent this leading to revenue losses, so therefore, we need to identify these key factors that help us
+distinguish between a fraudulent transaction from a genuine transaction that leaves so, in other words, we need to be able to find this, find what is transaction or not, now, is this different from the diabetics problem that we in the diabetes problem we didn't
+go the full distance. We did not try to build a diabetes. Prediction score.
+We stopped here. We do have a target variable. In other words, is this a fraudulent transaction, or is this a genuine transaction? There's something that we are explicitly going after this is called a target variable?
+And the world in which this kind of analysis is done is the world of classification.
+So what is a classifier? A classifier is a program.
+The peaks, data of various kinds. In this case a transaction amount, transaction location, data, card issue cost status, motion, category transaction history. All of that.
+And we could keep increasing. This list puts it into a rule, and then from that rule it speaks out whether this is a suspicious transaction, or this is a.
+In this particular case that we are looking at. It classifies in categories.
+It is, as it is called, a binary classifier.
+A binary classified in this particular case, takes in data and creates a data.
+Now, says, is what I'm saying suspicious, or is something what I'm seeing now I can do that in a variety of ways.
+I can create scores. I can create metrics.
+I can create rules and say, if if the amount transacted in the geography is more than this, etc.
+Etc. Then it is suspicious. In general I can create all but one easy way of doing it, as people have found, is to do something called a decision.
+Now a decision tree and here's an example of it.
+And please again for those of you in finance. This is not what you might do in practice, so think of this as just explicit, and the decision tree might be, am I looking at transaction amount first?
+Hmm! And if the transaction amount is high or low, let's see that the transaction, the transaction amount is high.
+Then look at me.
+If it's low, let's look at card stored in other words, at every stage in this tree, let me ask you if the card was reported stolen.
+Is this?
+If the merchant is new, then this is suspicious.
+If the merchant is someone I already know, and I can track, then I'll treat this as genuine.
+This is a decision tree. What it does, it asks a series of questions based on which I will get a predictive rule on whether I think this is genuine or not.
+Now, in our usual language, the root of a tree. Here transaction amount is usually the machine learning.
+Folks right the route at the top, and these are the leads or the end notes that essentially are suspicious or genuine.
+You can think of these as clusters as well. But then, more specifically, classes and the classes, because they, genuine or suspicious, based on different kinds of reasons.
+This is an example of supervised learning, so clustering and dimension reduction was an example of unsupervised learning.
+This classification is an example of supervised learning. I can also have supervised learning, so regression, which means I am not predicting a yes, low amplitude such aggression trees also exist, and such supervised learning algorithms.
+But for now this is an example of for a supervised learning algorithm.
+What's in advantage of this kind of supervised learning?
+Algorithm one, you can understand the rules. Remember, the doctor needed to understand what the rule meant.
+He also the banker, will understand what the rule means. They meet the explanatory standards.
+This is explainable machine learning, or, if you would want to think explainable, AI.
+However, there's a problem with this kind of explainability it runs into a limit.
+And what people have discovered that when they build nice little decision trees of the sky it doesn't work very well.
+These kinds of decision trees have been around about 40 years now.
+And about a decade after they were full they began to break down.
+There was too much, very similar situations were leading to very different trees, and so they needed to be robustified.
+And so, therefore, what people do today is not something typically like this.
+We have 2 fixes to a decision tree. One is, they built many decision trees, not one they take different cuts of the data, often random cuts of the data and they don't build one decision tree.
+They build many decision trees, so they create not trees. They create forests and if these are on random cuts of the data, they create what are called random forests, another, they look at these segments and they realize I haven't done very well on one particular and what they do is they look at the data, there and they
+try to do better. Analysis, by boosting the classifier's ability and various kinds of boosting methods are there.
+So today algorithms like random forests and Hg. Boost in various kinds of boosting algorithms are the bread and butter of people who do this kind of classification and they do it not just for binary clifiers.
+They do it for large number of classifiers they might do it for things like images, for example, and there are many kinds of images.
+There are a 100 kinds of images in the retail example.
+Many, so there could be many kinds of leaders, but this is the mechanical of the of supervised learning, and to this in some way is a natural starting point for many of the discriminative AI things that we are doing with respect to things like neural networks convolutional
+networks, long short term, modeling, etc.
+For various kinds of data. This kind of supervised learning. But all that is later, maybe for another day. Another session for the now, what I want to do is I want to go back and the few minutes that we have maybe address the last set of questions and see.
+So, I don't see too many banking specific questions, but maybe we'll get to it I think, as an interesting question, he says that can I improve datasets with inferential methods after inference should be done on data?
+But can I improve Peter with the influential methods itself?
+The answer is, yes. One example of inference, of course, is not a very good example.
+This is data creating labels for data, labels, for images.
+Another. Is imputation. Hmm. For examples I am doing recommendation systems, and I have items on the rules.
+And let's say, user on the rows. And it reviewers of movies, and not every reviewer is reviewed. Every movie.
+And so there are holes in in this matrix, and I can use something called matrix completion in order to do inferential findings on this matrix and therefore to do recommendations across all users and all items.
+So there are ways in which influence is used in order to shall we say cleanup, clean, cleanup data that's an interesting question.
+But may be, ask that question, do I asked a different part of that answer? A different part of that question.
+Chris asks, is it in research and embedding mathematical data as if it were linguistic data for using customizing large language models?
+For example, economic data the answer to that is, yes.
+So in AI language models are what so strict way about language models are are examples of what is called sequential learning.
+So it's it's one dimensional learning. What that means is you go from one word to the and the prototype, for that is what is called a recurrent neural network.
+And this sequential learning trick that is going from one thing to another is a sequence can be used in many things.
+For example, genetic sequences. For example, the Time Series or Time Series forecasting, and of course, a sentences, words in a particular order mean a certain thing similarly, for Cnn.
+Which are which are, which we see you can look arranged things in 2 dimensions.
+So this is a trick that's often being used. So any kind of data that can be formed into one dimensions or 2 dimensions, we is now open to methods of this kind.
+However, they typically need a lot of data in order to work very well, and that sometimes is a little bit of a problem.
+Comfort us? What would be an example of a model that presents data in a multi-dimensional layout rather than a clustering model?
+So there is a method called multidimensional scaling, which uses the same words that you're saying.
+All this slightly different. But what that does is it basically says that.
+How do I look at multi-dimensional data and skill it in such a way?
+So the distance on my visual on my image is the same as a distinction between the original data set.
+Remember the problem that we are trying to solve is the problem that our eyes can only seem to, or at most 3 dimensions and so, therefore, multivariate data needs to be compressed.
+If that restriction is not there, there are a variety of methods in which I can slice, and dice data in various ways.
+Data cubes, for example, and there are many softwares that do that very extensively.
+So good question, though, that should we be limited to 2 dimensions, because humans can see only in 2 dimensions?
+Risk applies to the Silicon Valley Bank and other such calamities.
+There will be no fix. This risk will always remain, because if this risk is completely banks will cease to be profitable.
+We'll always need to carry a certain amount of risk, and how much risk is acceptable.
+This is something that people debate about for example, there's this notion in many markets called too big to fail.
+Too big to feel means you're so big that if you fail the market, the and the metric, or we will be impacted so the government will backfill your and that creates a concept that is called by economics moral hazard, it means that the bank can take more risks because it knows that the government will
+beail them out. So, therefore, to protect a bank, to reduce the risk, you in fact, create more risk through this moral hazard and so this has been something that's been a little bit of a chicken and so there will always be this risk. It's just that.
+It needs to be managed very well, and to some extent this caviar dementer, in other words, by and make sure that you personally are diversified, and not everything is in one risk.
+Basket.
+Robbert asked, what is the difference between compliance indicator and risk management versus legacy systems?
+So under risk management, compliance basically means following the standards of under legacy systems, compliance means following the standards of data integrity inside it, systems, data integrity inside it systems means that it has to be stored a certain way.
+It has to be all data has to be kept for, say, 3 months.
+These particular fields have to be kept continuously, so that is data integrity in some inside lit inside risk management.
+Inside financial systems is more in the nature of saying that what are the rules that I need to follow in order to make sure that this money was given correctly?
+Passion, for example, is about compliance of that kind.
+Often different parts of the business do do this job.
+Hey, boss, how is data? Science use supppriative maintenance data?
+Science is used in pretty maintenance, first of all, to predict so pretty maintenance means what it means.
+Essentially the idea that I data from machines. And I'm trying to say, when is it that they will feel?
+And when is it that I need to be able to service can I run it over the summer without having the risk that it will fill so pretty maintenance uses certain very interesting models? For example, engineering?
+They use models like, why builds viable distribution which relates to a health care model survival analysis and in economics model duration models.
+So the same model can be used in various ways, but also should tie in very closely to the physics of the machine.
+And that's just a fun thing to do to be able to put the physics of a machine to statistical, prepare maintenance models.
+Who may ask, is the classified based on pattern recognition?
+So pattern recognition is a term that's used in 2 senses.
+One is, it is used almost as a symbol for classification to recognize the pattern means to see.
+These are the rules, and therefore this is the pattern that it is.
+The second is a is a broader definition of pattern recognition is, in other words, looking at trying to identify specific rules at the data set or image, or the texture. Whoever follows. But yes, you're right.
+If you're seeing a book on pattern recognition, you're probably going to see a lot of classification in it.
+Difference between classification and clustering. Yes, clustering the at the end, the clusters do not identify with a particular level in clustering in classification they associate with a particular list, but a decision tree is an example of a classifier an example of a classifier that gives things that look like
+clusters, not all classification methods look like that.
+Some classification methods simply give a score. For example, there's a classification method of a famous classification method called logistic regression, which gives a probability of default or a probability of 4 so you'll give a number between 0 and one, you if the probability, of fraud is higher than something the bank will say this
+is a fraudulent, so the particular example of classification that we looked at made it look as if I ended up with a cluster but that's not the intent.
+Sorry for the confusion. There.
+Holiday has a detailed a question on on DNA sequences, personalized medicine is still a work of art.
+The human genome has just recently been completely sequenced.
+It took about more than 20 years for the final pieces to fall into, but even then we don't fully understand the genetic origin, for oh, for more than just a few basic diseases, mostly neur degeneration is understood.
+The rest are problematic but certain diseases, like, for example, immunotherapy in cancer, are showing a lot of promise.
+But I think there's a long way to go before we.
+April last. Questions on, how do we on?
+How do we show graphs and outliers? Okay, this is an interesting question.
+And yes, visualization is often used to find outliers, and very often that outline is what is of interest.
+Remember that an outlier may be a cluster of size, one so clustering algorithm may also be able to give you an outlier.
+And so yes, using a visualization technique to find outlying observations is absolutely a good use of visualization to look at the sanctity of the data, particularly if there are hundreds and thousands of records.
+And I can't see an outline. Obviously, in the data.
+First see it, and make it more obvious.
+Matthew asked, how could we ensure credit card for detection is instantaneous.
+These rules that I described can be implemented instead provider, that the data are relevant to them is available in the bank and so you're right.
+The rules if they are applied instantaneously, should only go into the into the into the decision sheet that does that.
+If there's not instantaneous, they should go into another post-factor way of analyzing risk.
+But that's a different kind.
+The minute, many of you are asking questions about boosting sorry I can't address that now, but boosting is simply let that be the last thing.
+Boosting is simply the idea that way. The model classifies back predicted a simple way of doing that is to say, look at the data set where you classified wrong and repeat that data set twice.
+You know, those make the data bigger where it is wrong, and then try to classify again.
+So it. Forces you to do better in the places we are doing wrong.
+That's a simple kind of boosting called adap post.
+But there are clever ways of doing, boosting. Find out about it.
+That's what courses are for. Alright. So many other interesting questions are here.
+Thanks to us, many banks are not in favor of using Mlm. Risk management to create false positives.
+Yes, explainability is important. If bankers cannot understand what the Ml.
+Model is doing. They won't trust it, and neither will regulate us.
+This problem is going to arrive in things like self-driven cars and many other things as well.
+We have interesting times coming for us data scientists, and it's our job to make sure that our data is cleanable.
+I'm gonna stop here. I know there will be
