@@ -57,9 +57,7 @@ class OpenAICall():
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "This is a content summarization."},
-                {"role": "user", "content": "I am going to send you a piece of a transcript from a class. When I do, please give me a detailed summary of the piece of the transcript. Can you do this?"},
-                {"role": "assistant", "content": "Yes, I can definitely help summarize the piece of the transcript for you! Please feel free to send it over and I'll get started right away."},
-                {"role": "user", "content": f"Please provide bullet points for each piece of the transcript. Here is a piece of the transcript: {edited_text}"}
+                {"role": "user", "content": f"Please provide bullet points for each piece of this transcript. Break it down into sub categories as you see fit. This is only a piece of a transcript for a two hour lecture. Here is a piece of the transcript: {edited_text}"}
             ]
         )
 
