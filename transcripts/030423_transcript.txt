@@ -1,0 +1,211 @@
+Title: Introduction to Data Science and Statistics in Computing
+
+Description: Abinanda introduces himself and his background, including his experience in statistics, mathematics, economics, academia, and industry. He explains his role as academic director for Great Learning and the importance of data science in this field. He then discusses the historical relevance of answering questions related to weather and geography without the use of technology or computing, identifying statistics and computing as essential tools for managing and analyzing data today.
+
+Bullet Points:
+- Abinanda provides background on his education and professional experience.
+- He explains his role at Great Learning and the significance of data science.
+- Abinanda discusses the historical relevance of answering questions related to weather and geography without technology or computing.
+- He introduces the concepts of statistics and computing as essential tools for managing and analyzing data today.Title: Introduction to Inferential and Computational Thinking in Statistics and Computing
+Description: The transcript discusses the two main types of thinking in statistics and computing: inferential and computational thinking. It also touches on the importance of uncertainty and complete information in these fields.
+
+- Humans have been answering questions without spreadsheets, computers, and probability distributions for thousands of years.
+- Computing is about storing, analyzing, and processing large amounts of information in a process accessible to the user.
+- The focus of inferential thinking is to make predictions based on a small amount of data, while computational thinking involves extracting patterns from large amounts of data.
+- Statistics and statistical techniques are designed to solve the problem of uncertainty, where even if everything is the same, outcomes may not be the same.
+- Complete information is often out of reach, leading to the need for models and algorithms.
+- The two types of thinking, inferential and computational, will be discussed throughout the class to understand these concepts better.Title: Thinking Infinitely vs. Computationally in Data Analysis
+Description: This piece of the transcript discusses the differences between thinking infinitely and computationally in data analysis. It explains the situations where inferential thinking (thinking infinitely) is useful and when computational thinking is preferred. The limitations and corresponding applications of each approach are also discussed.
+
+- Some are comfortable thinking infinitely, while others are comfortable thinking computationally
+- Inferential thinking is useful when trying to make predictions based on a small amount of data
+- The focus is on making predictions on a grander scale
+- Computational thinking is preferred when there is a large amount of data and the goal is to extract patterns and write algorithms
+- In the world of big data, small samples are not preferred
+- The question of whether the data is representative is important when working with samples
+- Large amounts of data raise questions about doing things correctly and processing the data in time
+- Different limitations and applications based on the approach used
+- Policymakers may use data analysis to make decisions about new policies for citizensTitle: Differences in Inferential Thinking and Computational Thinking
+
+Description: The transcript discusses the differences between inferential thinking and computational thinking, using examples of government policies and weather forecasting. The focus is on understanding the limitations and applications of these approaches to problem-solving.
+
+- The limitations and corresponding applications of inferential thinking versus computational thinking are different.
+- Inferential thinking can be used to infer the effect of policies, while computational thinking relies on past data, which may not be available for future events.
+- Weather forecasting is an example of computational thinking that requires sophisticated physics and aligning data from different sources.
+- Understanding these different ways of thinking can help individuals determine how they approach problem-solving and frame problems.
+- These concepts are not limited to academic disciplines, but rather are ways of thinking that have been present throughout history.Title: Early History of Inferential Thinking in Statistics and Computing
+
+Description: The transcript discusses the early history of inferential thinking in statistics and computing. The speaker explains that inferential thinking and computational thinking are ways of thinking and not just academic disciplines. The discussion is focused on how people dealt with uncertainty around 100 years ago when the world was largely analogue. The transcript also discusses how people used prior knowledge to predict future uncertainties and used this to develop industries like quality control processes.
+
+Bullet Points:
+- Inferential thinking and computational thinking are ways of thinking and not just academic disciplines.
+- 100 years ago, the world was largely analogue, and people were dealing with uncertainty by calculating probabilities and doing simple calculations that could be done by hand.
+- People were collecting data and using probability theory to understand uncertainty.
+- The transcript discusses how people used prior knowledge to predict future uncertainties.
+- Industries like quality control processes emerged from leveraging information to deal with uncertainty.
+- Japan benefited greatly from this approach, improving its economy after World War II by using limited information and raw materials to do a good job.Title: Inference and Experimentation in Statistics
+Description: This piece of the transcript discusses the use of prior knowledge and experimentation in statistics to deal with uncertainties and draw meaningful inferences. The use of control charts, quality control processes, and sampling techniques are mentioned, along with examples of experiments in fields such as agriculture and finance.
+
+- The use of prior knowledge and experimentation is crucial in dealing with uncertainties in statistics.
+- Control charts, short control charts, and water short and bell labs were some of the ideas that emerged from this approach.
+- Quality control processes leveraged information from manufacturing plants to improve manufacturing practices.
+- Japan's economy benefited greatly from this approach after World War II, as they adopted controlled manufacturing with limited information and raw materials.
+- Sampling techniques and efficiency analysis play an important role in drawing meaningful inferences.
+- Good sample survey methodology, such as carefully sampling underwater crops, can yield accurate results.
+- Sampling and experimentation techniques are also used in fields such as advertising and online services.
+- Designed experiments, such as those in agriculture, require careful planning to ensure accurate results.
+- Clinical trials are an important application of sampling and experimentation in understanding the effectiveness of medicines.
+- Overall, the world of inference and experimentation in statistics continues to evolve and is vital in making informed decisions from limited information.Title: Introduction to Experimentation and Simulation in the World of Inference
+
+Description: The transcript discusses the emergence of inference and the use of careful experiments to draw information from small amounts of data. The speaker emphasizes the importance of this approach in situations where data is hard to come by such as rare diseases and new products. The use of digital computers, programming languages and simulation methods, such as the Monte Carlo method, are also discussed.
+
+Bullet points:
+- Careful experimentation can help draw information from small amounts of data
+- Inference is crucial in situations where data is hard to come by
+- Digital computers and programming languages have revolutionized the field of experimentation and simulation
+- Monte Carlo simulation is a popular method used to simulate behavior in various applications
+- The use of programming languages such as FORTRAN and object-oriented programming have evolved over time to better communicate with computers.Title: Evolution of Programming Languages and Statistical Methods
+Description: The transcript discusses the evolution of programming languages from zeros and ones to low code and how statistical methods evolved to handle complexities in real-world data.
+
+Bullet Points:
+- Initially, computers were instructed using zeros and ones, but programming languages were created to make it easier to communicate with computers.
+- Programming languages like Formula Translator (FORTRAN) were created to translate complex formulas for a computer to understand.
+- The evolution of programming languages has led to low code, where users can interface with a computer with little programming, but programming is still embedded inside the computer.
+- Statistical methods evolved to handle complexities in real-world data that could not be solved using simple math.
+- Two types of solutions emerged: writing math in such a way that it is robust to the data or using non-parametric methods that avoid describing the data altogether.
+- Non-parametric methods, also known as "quick and dirty" methods, allow for inferential thinking to proceed by drawing inference from more complicated data without making the math more complicated.Title: Non-parametric methods and robustness in statistics.
+
+Description: The piece of the transcript discusses non-parametric methods and robustness in statistics, which address problems such as uncertainty and incomplete information.
+
+Bullet points:
+
+- Non-parametric methods remove the dependency on knowing the exact distribution of data and work well in areas like marketing and pricing.
+- Robustness focuses on dealing with the data, even if the model is wrong, to give approximately accurate answers.
+- Box plots are an example of robust descriptions of data.
+- This kind of thinking was formalized by a mathematician named Tukey, who was also credited with the discovery of the Fast Fourier Transform.
+- Decision theory, including game theory, evolved to address how to make strong decisions even when faced with uncertainty or incomplete information.Title: The Evolution of Computational Thinking and the Separation of Human and Computer
+
+Description: The piece of the transcript discusses the evolution of Computational Thinking, the separation of human and computer, and the abstraction of data. It highlights how statistics and game theory were used to address decision-making with incomplete information along with the emergence of software, operating systems, and databases.
+
+Bullets:
+- Game theory helped formalize decision-making under uncertainty and infer the correct decision even if we don't know the opponent's move.
+- The evolution of computers led to the development of software and operating systems, which were necessary for managing resources and defining the required storage and computation.
+- The abstraction of data into data structures and databases separated the notion of data from programs and created a new way of thinking about data.
+- SQL (Structured Query Language) is a standard language used in modern data science for accessing databases.
+- There is a difference between how IT professionals and statistical experts use the term "data," which highlights various perspectives on the value and processing of data.Title: The Evolution of Data and Time Sharing in Computing
+
+Description: This piece of the transcript discusses the evolution of data and time sharing in computing. It highlights the split between data structures and programs, and how databases were created to store data. The transcript also discusses the importance of inferential and computational thinking in understanding data. Additionally, the split in time sharing is explored, discussing how computing resources were once limited to certain individuals and how this has changed with the advancement of technology.
+
+Bullet points:
+- Data structures were created as a separate notion from programs, leading to the creation of databases for storing data.
+- Inferential and computational thinking are important in understanding data, with different individuals valuing different aspects of the data (i.e. specific values vs. how it's arranged, compressed, visualized, etc.).
+- The split in time sharing allowed for different individuals to have access to computing resources at different times. This has evolved to the point where the cloud provides scalable infrastructure and democratized computing.
+- The development of operating systems, programming languages, middleware, and networking have all contributed to the evolution of computing.Title: Evolution of Computing and Statistical Thinking
+
+Description: The transcript discusses the evolution of computing and statistical thinking over time, highlighting the emergence of cloud computing and the development of new techniques like resampling and random forests. The focus is on understanding where these advancements came from and where they are headed.
+
+Bullet points:
+- The transcript begins with a discussion of cloud computing and how it represents a major shift in computing technology
+- It then moves to a discussion of the history of computing, including the development of operating systems, programming languages, and networking systems
+- The discussion then turns to the 80s and 90s and the emergence of new techniques like resampling and random forests
+- The transcript explains how resampling works and how it has become a key technique for improving statistical accuracy
+- It then discusses how random forests have become a key part of cutting-edge algorithms like neural networks
+- Throughout, the focus is on the ways in which computing and statistical thinking have evolved over time and how these developments are shaping the future of data analysis. Overall, the transcript provides an insightful look at the history and trajectory of computing and statistical thinking.Title: Evolution of Computational and Inferential Thinking
+
+Description: This piece of the transcript discusses the evolution of computational and inferential thinking and their impact on data modeling.
+
+Bullet Points:
+- Random forest, stochastic gradient descent, and dropout are some of the algorithms that were developed based on the idea of resampling and statistical thinking.
+- Regression vastly expanded, thanks to the use of resampling and robust methods, and it could now deal with different types of data, such as count and logistic data.
+- Computers became smaller, and personal computers made it easier for non-technical people to compute, allowing for more diverse professions to utilize computational methods.
+- The evolution of computing brought it closer to where data can come from, allowing for point of sale devices and remote business transactions.Title: The Evolution of Programming and its Implications
+
+Description: The piece of the transcript discusses the history and evolution of programming, from the earliest days of machines to the modern day. The conversation focuses on how the advancement of technology has brought the computer closer to the source of data, and how object-oriented programming has allowed for code to be more portable and reusable. The transcript also mentions how the evolution of programming has implications for all computer users, including the ability for anyone to code.
+
+Bullet Points:
+- The piece of the transcript discusses the evolution of programming from the earliest days of machines to the modern day.
+- The conversation focuses on how the advancement of technology has brought the computer closer to the source of data.
+- Object-oriented programming has allowed for code to be more portable and reusable.
+- Anyone can code, which has implications for all computer users.Title: The Evolution of Programming: Implications for Computational and Inferential Thinking
+
+Description: The transcript discusses the evolution of programming and its implications on computational and inferential thinking. It talks about how coding became easier, making the process of doing statistical programming and inferential programming easier as well. It also talks about how computational thinking does not mean programmatic thinking or coding skill, but it's a way to think, structure problems and imagine solutions. The growing reach of computation is enabling people who aren't computer scientists or technologies to use computers comfortably.
+
+Bullet points:
+- Java became famous for using long variable and object names, but coding became a lot easier with new programming languages.
+- The evolution of programming has implications even for people who think inferentially, making the process of doing statistical programming and inferential programming easier.
+- Computational thinking doesn't mean programmatic thinking or coding skill, but it's a way to think, structure problems and imagine solutions.
+- The growing reach of computation is enabling people who aren't computer scientists or technologies to use computers comfortably.
+- A new skill and subject are being born with the merging of influential thinking and computational thinking.
+- The growing reach of computation is enabling people who aren't computer scientists or technologies to use computers comfortably.
+- The increasing availability of data and prior information is creating new opportunities for sophisticated ways of dealing with uncertainty.
+- The transcript also touches upon topics like generalized linear models and the creation of new programming languages.Title: The Role of Bayesian Models in Dealing with Uncertainty and Causality
+
+Description: The speaker discusses the use of Bayesian models in dealing with uncertainty and causation in modern data analytics.
+
+Bullet points:
+- The speaker notes that we have taken for granted the creation of new object-oriented languages but are now entering open space where dealing with uncertainty requires more sophisticated approaches.
+- Bayesian models can capture the information content in complex graphical structures, allowing for modeling of complex data like genetic networks, cellular networks, and messaging in sales.
+- The speaker emphasizes the importance of probabilistic thinking in data analytics and asserts that it will grow as more non-probabilistic machine learning algorithms become probabilistic.
+- Causal inference is discussed as a hard thing to find out but is essential in understanding the relationships between causal variables, which may have different effects on a system.
+- The speaker provides an example of how the characteristic of discipline may lead to better health through regular exercise, and it is not that exercise itself leads to better health. Causal inference is necessary to identify the causal variables in such relationships.Title: Causal Inference, Discipline and Health
+Description: The speaker talks about how discipline can be utilized for a better lifestyle and how causal inference is trying to determine this. He also touches on the complexities of teasing apart data and how open data access has become democratized.
+
+- Discipline can be used for regular exercise for a better lifestyle 
+- Discipline can be used to avoid unhealthy food and establish proper sleep habits 
+- The speaker argues that discipline is a causal variable that leads to both exercise and better health 
+- Causal inference is difficult but can be achieved through experiments 
+- Correlation and causation are two different things 
+- Open data access is necessary to build comprehensive models using graphical networks 
+- Democratization of data has led to greater innovation in research and areas like drug development 
+- Artificial intelligence and machine learning have been around for a long time, but the problem was how to achieve it 
+- The principal of an aeroplane led to innovation and successful flightTitle: The Principle of AI and Big Data 
+
+Description: This piece of the transcript discusses the development of AI and the use of big data as a foundation for its growth. The speaker explains how the principle of AI works and gives examples of how data is used to create rules and intelligence without being explicitly taught. Additionally, the speaker discusses the use of big data in modern computing and its potential in various industries.
+
+Bullet points:
+- Artificial intelligence has been around for centuries, with the desire to create non-human entities that behave and look like humans.
+- The principle of AI is that a computer can reverse engineer data to create rules without being explicitly taught those rules.
+- Big data is essential to AI because it provides the necessary data for the computer to analyze and derive the rules.
+- The use of big data means there will be new jobs in the frontier of inferential thinking, which is still a work in progress.
+- Map reduce is a popular way of managing large amounts of data, and Hadoop is a prime example.
+- Big data has many potential uses across industries and is already beginning to change how humans interact with technology, such as with voice-activated commands in cars.Title: The Intersection of Big Data and Computational Thinking
+
+Description: This piece of the transcript discusses the relationship between big data, computational thinking, and inferential models. The speaker also touches upon how technology is changing various industries and the increasing amount of data generated by our own transactions.
+
+Bullet Points:
+- Stored data is changing technology in various industries such as computers and cell phones
+- The development of big data leads to a limitless amount of possibilities in all industries
+- Cells in our bodies have DNA molecules that can produce big data
+- Cloud computing is changing the way we think about the economics of computing
+- The relationship between big data and inferential models is leading to the development of data science 
+- Computational thinking is becoming more interdisciplinary
+- Technology is changing the way we interact with vehicles through inferential analysisTitle: The Intersection of Inferential Models and Interdisciplinary Approach in Data Science
+
+Description: The piece of the transcript discusses the increasing interdisciplinary approach in data science enabled by the ability to deal with multiple models from multiple sources. The focus is on inferential models, which can take information directly from subjects and embed them into computational models without requiring statistical models. The transcript explains the implications of such models for natural experiments, causal networks, and recommendation systems.
+
+Bullet Points:
+
+- Inferential models enable a highly interdisciplinary approach to data science that can directly take information from multiple sources.
+- These models can be embedded into computational models without requiring statistical models, leading to a better understanding of causal networks and natural experiments.
+- The intersection of inferential models and interdisciplinary approach is leading to better recommendation systems and more powerful advertorial revenue.
+- The ability to do natural experiments and public health interventions is also growing, thanks to the ability to observe complex phenomena and investigate economic and business journals.
+- The transcript discusses the potential of blockchain to revolutionize record-keeping for land records, university degrees, and more.
+- Lastly, the transcript mentions H computing, a move towards computing directly at the source, which is an interesting parallel to the move towards cloud computing.Title: Introduction to Blockchain, Edge Computing, and Quantum Computing
+
+Description: This piece of the transcript discusses the ideas behind blockchain, edge computing, and quantum computing. It explains the concept of blockchain as a piece of software used for storing information that can be verified by a vast number of people, making it a powerful tool for various applications. The transcript also sheds light on edge computing, which involves collecting and processing data directly at the source, and a trend towards using simpler programming languages like C for embedded applications. Finally, the transcript discusses quantum computing, a probabilistic form of computing that uses qubits instead of traditional bits and is still in early stages of development. 
+
+Bullet points:
+- Blockchain is a powerful tool for storing information that can be verified by many people and used for various applications, such as land records and university degrees.
+- Edge computing involves collecting and processing data directly at the source, enabling fast processing without the need for storage or loading on a computer.
+- A trend towards using simpler programming languages like C for embedded applications is emerging.
+- Quantum computing uses qubits instead of traditional bits, making it a probabilistic form of computing that is in early stages of development.
+- The transcript highlights two kinds of mindsets in computing: people who think inferentially and prioritize uncertainty and randomness and people who think calculation and prioritize storage and coding.
+- The individual's approach to computing will shape their data center journey.Title: The Challenges of Quantum Computing
+
+Description: The speaker discusses the challenges in understanding what constitutes a good qubit in quantum computing and the different mindsets of people working on this technology. They also address questions from the audience.
+
+Bullet Points:
+- The speaker acknowledges that scientists still do not know what makes a good qubit and whether spin or another property of subatomic particles will replace electronic circuits.
+- There are two types of minds working on quantum computing: those who think inferentially and those who think about data.
+- Different priorities lead to different approaches to quantum computing, such as thinking about prediction, uncertainty, calculation, storage, or coding.
+- The speaker takes questions from the audience through the chat feature but notes it may be difficult and seeks questions from another source.

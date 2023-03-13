@@ -1,0 +1,90 @@
+Summary of the piece of the transcript:
+
+- Machine learning has built a strong Python community, making Python the preferred coding language.
+- Resources like Stack Overflow and code competitions can be used to get support and answers.
+- Python is well-documented, making it easier to learn and find answers to questions.
+- Building a strong foundation in AI and ML basics is important for truly understanding chat models and more advanced applications.
+- The program manager will reach out to all learners who they have not yet connected with.
+- Speaker Kayla Wright shares that the AI certificate program was a great investment in her future, and provided her with a balance between studying and work.
+- The program manager was understanding and accommodating when Kayla had personal difficulties or issues.
+- The program covered both theoretical knowledge and real-life implementation and problem solving.- The program manager was understanding and helped the speaker meet their goals while dealing with personal difficulties.
+- The program helped the speaker gain knowledge and practical experience in AI and machine learning concepts.
+- The weekly Mentored Learning sessions with industry experts provided valuable insights and helped the speaker solve real-life business problems using AI.
+- The variety of projects given to the speaker helped them become a well-rounded AI practitioner and transition their career into a more focused role in AI.
+- The speaker had no programming experience prior to the program but was able to succeed by putting in effort and following the program's method of learning.
+- The program is highly recommended to anyone interested in pursuing a career in AI.
+- During the live session, questions were asked about Python 4.2 version and its compatibility with different packages.- The session will start after waiting for 20 seconds
+- Python is expected to be around for the next 10 years and is widely used in the healthcare industry and other sectors.
+- The migration to Python from other programming languages has created a vast demand in the machine learning community for Python, even if Python 4 version is not introduced anytime soon.
+- There is a 100% space in AI for people who don't have a degree in computer science.
+- The program provides enough statistics knowledge needed to succeed in this industry.
+- Videos and the community support help set up local environment to build the infrastructure for practice coding, compiling, building length projects on Python.
+- Some datasets available are healthcare, energy, and e-commerce. One can pick a dataset related to their area of employment if available.- The class involves setting up your own infrastructure in your local environment, which will involve working with Python and different packages.
+- There may be some issues depending on versions, but the Olympus community can provide guidance.
+- Synthetic data sets are provided for various industries such as retail, healthcare, and finance.
+- You have the option to find and work with real data sets from websites like Kaggle. 
+- Kayla recommends the boot camp as a helpful resource for those with no programming experience, and also suggests Stack Overflow and asking for mentor support. 
+- Identifying the right techniques or algorithms for a business problem depends on factors such as computation ability, level of accuracy needed, target variable, and the specific problem being solved. This will be covered in the mentor sessions.Here are the key takeaways from the given transcript:
+
+- Efficiency, data access, and target variable play a key role in machine learning output.
+- Machine learning combines different domains and gives an overall knowledge about different industries and concepts.
+- A master's degree in AI is not necessary after completing this certificate course.
+- The program outcome includes the ability to work with data, apply knowledge of AI techniques, and solve problems.
+- Great Learning is a leading tech platform offering programs in analytics, data science, machine learning, and artificial intelligence.
+- Great Learning is a delivery partner to the University of Texas at Austin and ranks amongst the top 15.- The speaker starts by addressing the question everyone has: what will be the outcome towards the end of the program?
+- The program aims to provide the ability to work with data and use applied knowledge of AI techniques to solve problems.
+- The speaker introduces the company, Great Learning, and its partnership with Udacity and UT Austin.
+- The Great Learning Timeline is discussed, covering the establishment of the company in 2013 and its growth over the years.
+- The learning philosophy is outlined, which includes structured learning with world-class faculty, personalized feedback and networking opportunities, weekly mentored learning sessions, program manager support, and career support.
+- The speaker moves onto discussing the learning experience and launches a polling question about the approach to learning followed by the program.- The instructor is giving an overview of the learning journey for the next couple of months and recommends that the students watch the orientation video.
+- A polling question is launched and the correct answer is the flipped classroom approach. The flipped classroom approach is explained as allowing students to learn at their own pace, flexible, customized, active, and engaging.
+- The vehicles of delivering learning are described as videos and reading materials on Olympus, mentor learning sessions on the weekends, and practicing hands-on through weekly quizzes, assignments, and projects.
+- The learning rhythm is explained with content released every Thursday, mentor learning sessions on the weekends, and project weeks with submissions due every Friday.
+- The Mentor learning sessions are interactive sessions with a focus on case studies and industry trends. The delicate schedule for the program is available for reference on the Olympus Dashboard.Sure, here are the bullet points summarizing the piece of the transcript:
+
+- The mid of the time is spent on the case study that shows how to apply the techniques learned in weekly video lectures.
+- Mentored sessions are interactive and relevant to the week's topic. They also include a doubts, glaring section, or any additional questions.
+- The delicate schedule for the program is already available on the Olympus dashboard, which shows the dates for the content, mentor learning sessions, and assessment deadlines.
+- A minimum of 60% is required in each module for successful completion of the program, which includes quizzes, projects, and attendance in mentor learning sessions.
+- There are six machine learning modules, three deep learning modules, and three self-paced courses in the program with associated projects.
+- The learning support ecosystem includes All and past dashboard, program manager via phone call or text, Whatsapp groups, email to program office team, and the Olympus learning community with over 10,000 learners.
+- Utilizing the learning community helps in debugging problems, getting clarity on different topics, and growing knowledge and network.Summary:
+
+- The speaker encourages learners to utilize the community of over 10,000 learners to ask technical questions, get clarity on different topics, and grow their knowledge and network.
+- A voting question is launched, asking learners what they should do if they need Academy help while working on the project.
+- The correct answer is revealed to be to make use of the project discussion forum or raise a support request.
+- The speaker introduces the tools that will be used during the program, including the Olympus website, GM mobile app, and Zoom Meeting.
+- The Great Learning Accelerate feature on Olympus is introduced, which provides help and support in career-related queries once learners have completed 60% of the program.
+- Two subsections of the Great Learning Accelerate feature are discussed: career preparation and career coaching sessions.
+- Career coaching sessions will help learners with their career outcomes towards industrial landscapes through mock interviews and one-on-one career mentoring sessions.
+- The speaker provides a walkthrough of the Olympus website login process.Summary:
+
+- The speaker is introducing a learning platform, Olympus dot migraine learning dot com, using screen sharing.
+- Users need to log in with credentials they received or register with their email address to set up a new password.
+- Once logged in, users can access the dashboard homepage, which includes a highlights section and an activity section.
+- Users are encouraged to change their time zone settings in the account section to receive notifications relevant to their local time.
+- The activity section includes upcoming, ongoing, and completed tasks, with a view recordings option available for completed sessions.
+- The gradebook section will display progress and grades as users complete modules and assessments.
+- The attendance section tracks participation in sessions and reports missed sessions.
+- The Gl community section provides a platform for users to ask questions and share knowledge.
+- The need assistance tab offers academy and technical support.- The attendance dashboard is a central location for tracking attendance for the program
+- The Gl community is a social media platform for Great Learning students and alumni to connect and share knowledge
+- The Need Assistance tab is important for technical support and general program queries
+- Under the tab, students can select from various concerns and submit support requests with attachments
+- The Industry Articles tab is for knowledge purposes and to stay updated on the latest industry news
+- The Courses tab shows the currently active and upcoming modules for the program
+- The Program Overview module provides access to program-related information and files, delivery schedules, and assessments
+- The DGL Accelerate tab is a community for Great Learning students to take part in.- Overview of program content and access to mentor sessions
+- No recordings for program overview and no sessions for this module
+- Assessments will show up and there is a WhatsApp group for weekend mentor sessions
+- Great Learning Accelerator feature unlocks once 60% of program is completed and helps with career preparation
+- Referral program available for current learners to refer friends and family
+- Secret to success in program is daily engagement, timely feedback, and actively participating in program components
+- Next steps for learners include completing profile and updating time zone, watching orientation and learning philosophy videos, and following delivery schedule
+- Feedback form will be sent after session and ratings and comments are appreciated.Sure, here are the bullet points for the piece of the transcript:
+
+- The first step is to check if you have completed the prerequisite courses.
+- Afterwards, you can start with the boocam content and follow the delivery schedule to stay on track with your learning journey.
+- The presenter is thanking everyone for attending the session and giving their time.
+- A feedback form will be sent out after the session.
+- The presenter requests everyone to share their ratings and comments on the session as feedback is important for improvement.
